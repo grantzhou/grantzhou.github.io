@@ -13,7 +13,7 @@ PostgreSQL 14 带来了很多新特性，可以帮助开发人员和管理员部
 。
 
 “PostgreSQL 的最新版本提高了我们用户大规模管理数据工作负载的能力，增强了可观察性
-，并包含有助于应用程序开发人员的新功能，” PostgreSQL 核心团队成员Magnus 
+，并包含有助于应用程序开发人员的新功能，”，PostgreSQL 核心团队成员Magnus 
 Hagander 说，"PostgreSQL 14 证明了全球 PostgreSQL 社区致力于解决反馈并继续
 提供由大大小小的组织部署的创新数据库软件。”
 
@@ -123,3 +123,4 @@ PostgreSQL 14 可以方便地使用 `pg_read_all_data` 和 `pg_write_all_data` [
 * [安全](https://www.postgresql.org/support/security/)
 * [版本政策](https://www.postgresql.org/support/versioning/)
 * [在Twitter上关注@postgresql](https://twitter.com/postgresql)
+

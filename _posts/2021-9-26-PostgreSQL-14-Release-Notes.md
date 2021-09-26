@@ -1,3 +1,8 @@
+
+这是**即将发布**的PG14发行说明的翻译文稿
+
+===
+
 PostgreSQL全球开发组今天宣布[PostgreSQL 14](https://www.postgresql.org/docs/14/release-14.html)正式发布,  这是世界上[最先进的开源数据库](https://www.postgresql.org/)
 的最新版本。
 

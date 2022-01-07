@@ -2,7 +2,7 @@
 layout: post
 title: PostgreSQL 每周新闻 2021-12-15
 ---
-### PostgreSQL每周新闻#434 - 2021年12月8日
+### PostgreSQL每周新闻#434 - 2021年12月15日
 ![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/435)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/gytyaf3xqdpjizp2w2qq.jpg)

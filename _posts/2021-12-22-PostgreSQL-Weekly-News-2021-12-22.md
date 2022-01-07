@@ -1,8 +1,8 @@
 ---
 layout: post
-title: PostgreSQL 每周新闻 2021-12-22
+title: 2021 年最佳 Postgres 周刊
 ---
-### PostgreSQL每周新闻#436 - 2021年12月22日
+### 2021 年最佳 Postgres 周刊
 ![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
 备注：[英文原文地址](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/pslzvoamdiae0nmrbgow.jpg)
 ## [2021 年 Postgres GUI 综述](https://postgresweekly.com/link/117872/web)

@@ -5,7 +5,7 @@ title: PostgreSQL 每周新闻 2022-10-5
 ### PostgreSQL每周新闻#474 - 2022年10月5日
 ![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/474)
-![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,w_350,h_90/e_make_transparent/co_white,e_outline:7/vpntubykyv5ujmbzw501.png)
+![img](https://postgresweekly.com/link/129642/web)
 ## [带有 pg_eventserv 的实时数据库事件](https://postgresweekly.com/link/129642/web)
 pg_eventserv 是一个新的 Go 驱动的服务器，它通过 NOTIFY 从 Postgres 获取事件，然后将这些事件传递给等待的 WebSocket 客户端。 “以这种方式构建实时系统允许任何数据库客户端更改系统状态并实时传播到所有其他客户端。”
 

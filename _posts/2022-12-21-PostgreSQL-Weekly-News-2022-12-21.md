@@ -9,7 +9,9 @@ title: PostgreSQL 每周新闻 2022-12-21
 
 ## 2022年最佳 Postgres 周刊
 这是今年的最后一期（我们将于 2023 年 1 月 4 日回归），因此我们将重新审视 2022 年最受欢迎的那些文章。我们已经涵盖了主要的热门文章，但也对其他内容进行了一些细分（例如视频). 我们希望您有一个美妙的假期。
+
 ___
+
 `Peter Cooper，您的编辑`
 
 ## 1：[😱 一个毛茸茸的 Postgres 事件](https://ardentperf.com/2022/02/10/a-hairy-postgresql-incident/)
@@ -26,6 +28,7 @@ ___
 
 > **在 Datadog 中使用上下文可视化关键 PostgreSQL 性能指标**
 > 通过精细的 Postgres 分析以及堆栈的其余部分快速识别运行缓慢的查询、瓶颈和错误，以解决性能问题。构建自定义的拖放式仪表板，以快速查看任何 Postgres 指标的分析。
+> 
 > `DATADOG *赞助商*`
 
 ## 3：[Postgres 15 的MERGE功能](https://www.postgresql.org/docs/devel/sql-merge.html)

@@ -17,3 +17,7 @@ Please let me know if any comments.
 [grantzhou AT gmail dot com](mailto:grantzhou@gmail.com)
 
 <a href="https://twitter.com/highgosoftware?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @highgosoftware</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Open source project
+
+[![Star History Chart](https://api.star-history.com/svg?repos=IvorySQL/IvorySQL&type=Date)](https://star-history.com/#IvorySQL/IvorySQL&Date)

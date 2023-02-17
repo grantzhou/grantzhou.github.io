@@ -5,7 +5,7 @@ title: PostgreSQL 每周新闻 2023-2-15
 ### PostgreSQL每周新闻#493 - 2023年2月15日
 ![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/493)
-![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_600,h_120/e_make_transparent/co_white,e_outline:7/iplxngwgax1ktho5k45h.png)
+![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_600,h_120/e_make_transparent/co_white,e_outline:7/chrf2e7pv4jro5ke7sue.jpg)
 ## [期待 Postgres 16: I/O 统计功能 withpg_stat_io](https://postgresweekly.com/link/135374/web)
 查看在未来版本的 Postgres 中使用新的pg_stat_io视图查询系统范围的 I/O 统计信息，它的几个用例，以及对 I/O 可观察性未来的思考一般在 Postgres 中。
 

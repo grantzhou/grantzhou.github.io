@@ -6,7 +6,7 @@ title: PostgreSQL 每周新闻 2023-4-26
 ![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/503)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_350,h_100/e_make_transparent/co_white,e_outline:7/lhwcvgc1asd4fzaahty4.png)
-## [使用 Postgres 的九种失误方法](https://postgresweekly.com/link/138733/web)
+## [Postgres 使用的九大失误](https://postgresweekly.com/link/138733/web)
 快速浏览您在使用我们最喜欢的数据库时可能遇到的一些常见错误或陷阱。 它引起了很多人的共鸣，并在 Reddit 和 Hacker News 上引发了广泛的讨论。 要点包括忘记为外键添加索引，没有调整 work_mem，以及过于依赖 CTE。
 
 

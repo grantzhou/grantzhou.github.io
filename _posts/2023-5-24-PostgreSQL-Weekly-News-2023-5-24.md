@@ -5,7 +5,7 @@ title: PostgreSQL 每周新闻 2023-5-24
 ### PostgreSQL每周新闻#507 - 2023年5月24日
 ![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/507)
-![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_350,h_100/e_make_transparent/co_white,e_outline:7/lhwcvgc1asd4fzaahty4.png)
+![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/xv7zxdw7y5twqnahnjvx.jpg)
 ## [在 Amazon RDS 上用 Rust 构建高性能函数](https://postgresweekly.com/link/140001/web)
 Amazon RDS for PostgreSQL 现在支持受信任的 PL/Rust，为在流行的云提供商上用 Rust for Postgres 构建存储过程开辟了新的机会。 这篇文章介绍了一个完整的例子。 我们希望看到一些有趣的用例由此涌现！
 

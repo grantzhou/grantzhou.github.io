@@ -95,4 +95,4 @@ PostgREST 是一个 Haskell 应用程序，可从任何现有的 Postgres 数据
 ## [PostGIS 3.4.0 Beta 1](https://postgresweekly.com/link/142750/web)
 
 
-## [pgmanage 1.0b2] (https://postgresweekly.com/link/142751/web)
+## [pgmanage 1.0b2](https://postgresweekly.com/link/142751/web)

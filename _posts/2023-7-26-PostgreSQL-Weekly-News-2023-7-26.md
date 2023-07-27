@@ -26,6 +26,7 @@ title: PostgreSQL 每周新闻 2023-7-26
 
 
 `Crunchy Data `
+
 **本周摘要：**
 *   DigitalOcean 的托管 Postgres 服务现在支持 pgvector 扩展。
 

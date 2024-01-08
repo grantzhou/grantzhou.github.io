@@ -42,9 +42,9 @@ Postgres 中各种 JSON 函数的便捷备忘单，其中包含每个函数的�
 
 * [MERGE 命令](https://postgresweekly.com/link/149401/web) - Simon Riggs
 * [一起保护 PostgreSQL 免受外部攻击](https://postgresweekly.com/link/149402/web) - Bruce Momjian
-* [ACID 里的 I](https://postgresweekly.com/link/149403/web) - Lætitia Avrot)
+* [ACID 里的 I](https://postgresweekly.com/link/149403/web) - Lætitia Avrot
 * [实施 Postgres 补丁的演练](https://postgresweekly.com/link/149404/web) - Andrey Borodin
-* [Postgres 现在可以做什么](https://postgresweekly.com/link/149405/web)
+* [Postgres 现在可以做什么](https://postgresweekly.com/link/149405/web) - Vagmi Mudumbai.
 
 
 ## **代码和工具**

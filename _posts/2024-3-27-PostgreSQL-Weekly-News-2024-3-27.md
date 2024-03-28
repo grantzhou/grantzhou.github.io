@@ -29,16 +29,16 @@ title: PostgreSQL 每周新闻 2024-3-27
 
 **本周摘要：**
 
-*   Redgate Software 的 Grant Fritchey 是本周 PostgreSQL 本周人物的受访者。
+*   Redgate Software 的 [Grant Fritchey](https://postgresweekly.com/link/153016/web) 是本周 PostgreSQL 本周人物的受访者。
 
 
-*   POSETTE 的 CFP 仍然开放到 4 月 7 日，如果您想发言，Claire Giordano 会很高兴。
+*   [POSETTE 的 CFP](https://postgresweekly.com/link/153017/web) 仍然开放到 4 月 7 日，如果您想发言，Claire Giordano 会很高兴。
 
 
-*   🗓️ 在其他活动方面，2024 年瑞士 PGDay 将于今年 6 月举行，其 CFP 开放至 4 月 8 日。
+*   🗓️ 在其他活动方面，[2024 年瑞士 PGDay](https://postgresweekly.com/link/153018/web) 将于今年 6 月举行，[其 CFP](https://postgresweekly.com/link/153019/web) 开放至 4 月 8 日。
 
 
-*   Postgres 平台 Tembo 现在利用 FerretDB 提供类似 MongoDB 的托管服务，称为 MongoAlternative。
+*   Postgres 平台 Tembo 现在利用 [FerretDB](https://postgresweekly.com/link/153020/web) 提供类似 [MongoDB 的托管服务](https://postgresweekly.com/link/153021/web)，称为 [MongoAlternative](https://postgresweekly.com/link/153022/web)。
 
 
 ## [检查您的权限](https://postgresweekly.com/link/153023/web)

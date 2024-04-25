@@ -51,6 +51,7 @@ David Wheeler 和其他人正在对 PGXN 方法进行重大更新，以便为 Po
 
 **📰 机密：**
 
+
 🗓️ [预留 POSETTE 的日期](https://postgresweekly.com/link/154149/web)：Postgres 的免费虚拟开发者活动（6 月 11 日至 13 日）。 加入 4 个独特直播中的 44 位演讲者，聆听 PG 专家的演讲。 时间表已于 5 月 1 日发布。
 
 🪝 [Hookdeck](https://postgresweekly.com/link/154150/web)：用于事件驱动应用程序的无服务器队列。 [了解更多](https://postgresweekly.com/link/154150/web)。
@@ -77,11 +78,8 @@ David Wheeler 和其他人正在对 PGXN 方法进行重大更新，以便为 Po
 
 
 `Salsita Software `
-## [pglite 0.1.5](https://postgresweekly.com/link/154157/web)
- - 轻巧的Postgres和Wasm打包到浏览器，Node.js，Bun和Deno的打字稿库中。
 
-
-[PGlite 0.1.5](9https://postgresweekly.com/link/154157/web) – 轻量级 Postgres 作为 WASM 打包到浏览器、Node.js、Bun 和 Deno 的 TypeScript 库中。
+[PGlite 0.1.5](9https://postgresweekly.com/link/154157/web) – 轻量级 Postgres 作为 WASM 打包到浏览器、Node.js、Bun 和 Deno 的 TypeScript 库。
 
 [Goose 3.20](https://postgresweekly.com/link/154158/web) – 数据库迁移工具。 支持SQL和Go函数。
 

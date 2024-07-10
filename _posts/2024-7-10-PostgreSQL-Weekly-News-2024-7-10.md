@@ -1,10 +1,10 @@
 ---
 layout: post
-title: PostgreSQL 每周新闻 2024-7-3
+title: PostgreSQL 每周新闻 2024-7-10
 ---
-### PostgreSQL每周新闻#556 - 2024年7月3日
+### PostgreSQL每周新闻#556 - 2024年7月10日
 ![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
-备注：[英文原文地址](https://postgresweekly.com/issues/560)
+备注：[英文原文地址](https://postgresweekly.com/issues/562)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/yqiptwwohrd7ygfo38of.jpg)
 ## [pgPedia：Postgres 百科全书](https://postgresweekly.com/link/157419/web)
 一本有趣、格式清晰的 wiki 式参考指南，介绍了 Postgres 的功能和设置，是对官方文档的良好补充。值得仔细研究一下。

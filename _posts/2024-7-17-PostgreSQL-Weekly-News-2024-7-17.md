@@ -9,9 +9,9 @@ title: PostgreSQL 每周新闻 2024-7-17
 ## [谁负责 Postgres？](https://postgresweekly.com/link/157631/web)
 Postgres 与许多数据库不同，它不直接受推动其发展的仁慈领导者或公司的控制。它有一个核心团队，PostgreSQL 社区协会拥有商标，但谁是“负责人”？Bruce 建议，我们所有人都是。
 
-```
+
 ⚠️ 在本文的电子邮件版本中，我们在商标持有人方面犯了一个错误。下周的版本将发布正确的更正。感谢 Jonathan Katz 强调这一点！
-```
+
 
 `BRUCE MOMJIAN `
 

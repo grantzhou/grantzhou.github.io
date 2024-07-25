@@ -39,7 +39,7 @@ Postgres SAVEPOINT — 你知道吗，在事务中可以定义事务剩余部分
 
 * 但是，关于商标的话题，如果您想了解有关 Postgres 商标的更多信息，[有一个官方页面专门介绍这一点](https://postgresweekly.com/link/157920/web)。
 
-* 🤖 在 X/Twitter 上，快速了解一下 [Facebook 的新 Llama 3.1 模型在针对 Postgres 的文本到 SQL 任务中的表现](https://postgresweekly.com/link/157940/web_。
+* 🤖 在 X/Twitter 上，快速了解一下 [Facebook 的新 Llama 3.1 模型在针对 Postgres 的文本到 SQL 任务中的表现](https://postgresweekly.com/link/157940/web)。
 
 ## [将行模式识别引入 Postgres](https://postgresweekly.com/link/157921/web)
 SQL 标准包括基于定义的模式搜索表中行序列的功能。Tatsuo 也希望将其引入 Postgres。他向我们展示了它的工作原理和他的工作进展。

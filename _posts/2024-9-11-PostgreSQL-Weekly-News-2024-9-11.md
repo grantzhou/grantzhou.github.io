@@ -34,7 +34,7 @@ Blacksmith 通过在现代游戏 CPU 上运行 GitHub Actions 来显著提高运
 * [ParadeDB 的 Philippe Noël](https://postgresweekly.com/link/159627/web) 是本周 PostgreSQL 人物的受访者。
 
 
-[Neon 如何动态估计 Postgres 的工作集大小](https://postgresweekly.com/link/159628/web) 
+## [Neon 如何动态估计 Postgres 的工作集大小](https://postgresweekly.com/link/159628/web) 
 “工作集”是指系统在特定时间段内使用/读取/写入的数据。弄清楚 Postgres 服务器当前的“工作集”实际上相当困难，但如果您想要实现自动扩展，这一点至关重要，因为无服务器平台 Neon 现在可以做到这一点。
 
 

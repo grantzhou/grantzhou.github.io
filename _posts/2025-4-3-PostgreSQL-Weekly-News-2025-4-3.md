@@ -37,8 +37,6 @@ Aurora 遇到了区域 HA、故障转移延迟和手动分片方面的瓶颈。C
 
 ### 代码和工具：
 
-![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ekl8zdyxyhf9z4mjfbyp.jpg)
-
 ## [📊 RTABench：实时分析的基准](https://postgresweekly.com/link/167655/web)
 由 Timescale 团队构建的开源基准，与许多传统数据库基准不同，它专注于跨规范化表和增量预聚合物化视图的实际查询。
 

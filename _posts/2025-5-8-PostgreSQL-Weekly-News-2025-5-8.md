@@ -53,9 +53,7 @@ Postgres 18 的第一个 Beta 版本添加了有限的异步 I/O (AIO) 支持—
 
 ### **快速发布**
 
-[pg_parquet v.0.4.0 正式发布](https://postgresweekly.com/link/169083/web) — pg_parquet 提供了一种在 Postgres 中直接导出和导入 Parquet 文件的方法，无需依赖第三方工具。
-
-Aykut Bozkurt (Crunchy Data)
+[pg_parquet v.0.4.0 正式发布](https://postgresweekly.com/link/169083/web) — pg_parquet 提供了一种在 Postgres 中直接导出和导入 Parquet 文件的方法，无需依赖第三方工具。 - Aykut Bozkurt (Crunchy Data)
 
 [external_file 1.2](https://postgresweekly.com/link/169084/web) – 一款允许从 Postgres 服务器文件系统访问外部文件的扩展程序。
 

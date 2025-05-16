@@ -53,16 +53,19 @@ POSETTE：Postgres 活动，一场免费的线上开发者盛会，距离 6 月 
 
 `Raphael Araújo e Silva`
 
-## [pgwatch 3.3：Postgres 监控解决方案](https://postgresweekly.com/link/169084/web) – 一个独立的 Postgres 服务器指标监控仪表板工具。可以轻松通过 Docker 进行非侵入式部署（无需扩展）。GitHub 仓库。
+## [pgwatch 3.3：Postgres 监控解决方案](https://postgresweekly.com/link/169084/web)
+一个独立的 Postgres 服务器指标监控仪表板工具。可以轻松通过 Docker 进行非侵入式部署（无需扩展）。GitHub 仓库。
 
 `CYBERTEC`
 
-## [Vircadia：一个由 Postgres 提供支持的游戏反应层](https://postgresweekly.com/link/169413/web) – 这似乎还处于早期阶段，但其想法是您可以使用 Vircadia 来模拟代理世界并通过 SQL 管理游戏内实体。
+## [Vircadia：一个由 Postgres 提供支持的游戏反应层](https://postgresweekly.com/link/169413/web)
+这似乎还处于早期阶段，但其想法是您可以使用 Vircadia 来模拟代理世界并通过 SQL 管理游戏内实体。
 
 `Vircadia`
 
-## [FerretDB 2.2](https://postgresweekly.com/link/169414/web) – 一款功能类似于 MongoDB 的数据库，但使用 Postgres 进行存储。（顺便提一句，FerretDB 的联合创始人最近与 Claire Giordano 一起参加了 Talking Postgres 播客，探讨了 FerretDB 以及他们为何选择 Postgres 作为后端。）
+[FerretDB 2.2](https://postgresweekly.com/link/169414/web) - 
+一款功能类似于 MongoDB 的数据库，但使用 Postgres 进行存储。（顺便提一句，FerretDB 的联合创始人最近与 Claire Giordano 一起参加了 Talking Postgres 播客，探讨了 FerretDB 以及他们为何选择 Postgres 作为后端。）
 
-## [River 0.22](https://postgresweekly.com/link/169416/web) – 适用于 Go 和 Postgres 的强大作业处理系统。
+[River 0.22](https://postgresweekly.com/link/169416/web) – 适用于 Go 和 Postgres 的强大作业处理系统。
 
-## [pgroll 0.12](https://postgresweekly.com/link/169417/web) – 零停机、可逆、模式迁移。
+[pgroll 0.12](https://postgresweekly.com/link/169417/web) – 零停机、可逆、模式迁移。

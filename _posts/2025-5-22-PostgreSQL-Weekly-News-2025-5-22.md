@@ -34,7 +34,8 @@ title: PostgreSQL 每周新闻 2025-5-22
 
 * [最新 Postgres 扩展迷你峰会的文字记录](https://postgresweekly.com/link/169535/web)，主题是如何利用 CloudNativePG 改进 Kubernetes 中的 Postgres 扩展体验。
 
-## [pgModeler 1.2：Postgres 数据库建模工具](https://postgresweekly.com/link/169408/web) — 一种以更直观的方式轻松创建和编辑数据库模型的方法。它已打包为付费产品，但也是开源的（GPLv3 - 代码库在此），因此您可以自行构建。v1.2 是一个重要更新。
+## [pgModeler 1.2：Postgres 数据库建模工具](https://postgresweekly.com/link/169408/web)
+一种以更直观的方式轻松创建和编辑数据库模型的方法。它已打包为付费产品，但也是开源的（GPLv3 - 代码库在此），因此您可以自行构建。v1.2 是一个重要更新。
 
 `Raphael Araújo e Silva`
 

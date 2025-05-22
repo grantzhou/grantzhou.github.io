@@ -16,9 +16,8 @@ title: PostgreSQL 每周新闻 2025-5-22
 
 
 `Cary Huang`
-```
+
 💡 如果您想提前了解 2026 年的活动，它[将于 5 月 19 日至 22 日重返温哥华](https://postgresweekly.com/link/169531/web)。
-```
 
 ## [(O’Reilly 新品) CockroachDB：权威指南 第二版](https://postgresweekly.com/link/169527/web)
 学习如何使用兼容 Postgres 的分布式 SQL 数据库构建高弹性、可扩展的应用。相同的 Postgres 使用体验——熟悉的工具、模式和查询——可在全球范围内、本地或任何云平台进行扩展，并具有原生地理数据放置和低 TCO。

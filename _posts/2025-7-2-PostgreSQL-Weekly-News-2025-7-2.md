@@ -1,8 +1,8 @@
 ---
 layout: post
-title: PostgreSQL 每周新闻 2025-7-2
+title: PostgreSQL 每周新闻 2025-7-3
 ---
-### PostgreSQL每周新闻#606 - 2025年7月2日
+### PostgreSQL每周新闻#606 - 2025年7月3日
 ![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/606)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/airmujwtkqsnko34s0al.jpg)

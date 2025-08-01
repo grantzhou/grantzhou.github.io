@@ -1,10 +1,10 @@
 ---
 layout: post
-title: PostgreSQL 每周新闻 2025-7-24
+title: PostgreSQL 每周新闻 2025-7-30
 ---
-### PostgreSQL每周新闻#608 - 2025年7月24日
+### PostgreSQL每周新闻#610 - 2025年7月30日
 ![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
-备注：[英文原文地址](https://postgresweekly.com/issues/609)
+备注：[英文原文地址](https://postgresweekly.com/issues/610)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/khrspmmtn99ujhlnerps.jpg)
 ## [让 Postgres 慢 42,000 倍（因为我失业了）](https://postgresweekly.com/link/172500/web)
 我们做了很多关于如何最大限度地利用 Postgres 并使其运行得尽可能快速顺畅的项目，但是你能从另一个角度尝试让 Postgres 尽可能慢来学到一些东西吗？这看似毫无意义的练习，但却是一个了解 Postgres 某些配置选项实际作用的好方法。

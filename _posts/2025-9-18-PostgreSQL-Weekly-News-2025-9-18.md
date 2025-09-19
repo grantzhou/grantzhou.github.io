@@ -4,8 +4,8 @@ title: PostgreSQL 每周新闻 2025-9-18
 ---
 ### PostgreSQL每周新闻#616 - 2025年9月18日
 ![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
-备注：[英文原文地址](https://postgresweekly.com/issues/615)
-![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ppthfcm8ahmx87sfbnys.jpg)
+备注：[英文原文地址](https://postgresweekly.com/issues/616)
+![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/s9qtubbavnoqyklkrzoh.jpg)
 ## [「数据库不接受指令」：現在該怎麼辦？](https://postgresweekly.com/link/174454/web)
 這個錯誤你肯定不想遇到，因為這意味著你需要做一些認真的工作來避免交易 ID 重疊。不過，如果你真的遇到了，Laurenz 會提醒我們該怎麼做，以及一些需要避免的「低階措施」。
 

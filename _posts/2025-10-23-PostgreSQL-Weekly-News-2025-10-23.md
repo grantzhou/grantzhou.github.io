@@ -50,7 +50,7 @@ James 的團隊如何從不可靠的 12 台伺服器 HBase/OpenTSDB 叢集轉變
 ## **发布**
 
 ## [NoraSearch：快速查找子字串匹配偏移量和計數的擴展](https://postgresweekly.com/link/176026/web)
-例如，在"abracadabra"中搜尋"abra"將傳回 ``{{0,4},{7,4}}``。作者引用了一個用於分析 DNA 序列的用例。
+例如，在"abracadabra"中搜尋"abra"將傳回 {0,4},{7,4}。作者引用了一個用於分析 DNA 序列的用例。
 
 `Lemmer EL ASSAL`
 

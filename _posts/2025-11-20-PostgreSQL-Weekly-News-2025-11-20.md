@@ -24,7 +24,7 @@ Azure 已有 Azure Database for PostgreSQL，但 Horizo​​nDB 提供“更高
 
 ## **本周摘要**
 
-⭐ [Amazon RDS for PostgreSQL 現在支援 Postgres 18](https://postgresweekly.com/link/177308/web)，具體來說是 Postgres 18.1。 [pgcollection](https://postgresweekly.com/link/177309/web) 以及其他常用擴充功能的最新版本也已包含在內。
+* [Amazon RDS for PostgreSQL 現在支援 Postgres 18](https://postgresweekly.com/link/177308/web)，具體來說是 Postgres 18.1。 [pgcollection](https://postgresweekly.com/link/177309/web) 以及其他常用擴充功能的最新版本也已包含在內。
 
 * 🏴研再讀形體形體許​​數許力許​​L重量殼許種種種種記號 Jimmy Angelakos 宣布將於 12 月 11 日在蘇格蘭愛丁堡舉辦[第一屆 PostgreSQL 聚會](https://postgresweekly.com/link/177310/web)。
 
@@ -80,7 +80,7 @@ Azure 已有 Azure Database for PostgreSQL，但 Horizo​​nDB 提供“更高
 
 `Shayon Mukherjee`
 
-## [pg_flo：即時串流、轉換和路由 Postgres 資料](https://postgresweekly.com/link/177326/web)
+## [Spock：邏輯多主 PostgreSQL 複製](https://postgresweekly.com/link/177326/web)
 
 `pgEdge`
 

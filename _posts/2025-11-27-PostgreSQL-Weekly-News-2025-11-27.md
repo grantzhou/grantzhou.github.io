@@ -70,7 +70,7 @@ psql 支援多種語法元素，讓您可以執行一些在資料庫前端可能
 
 🛣️ [《通往 Next.js 之路》](https://postgresweekly.com/link/177681/web)是由 Robin Wieruch 主講的課程，旨在幫助學員使用 Next.js 15 和 React 19 進行全端 Web 開發。對於準備超越前端的 JavaScript 開發人員來說，這門課程堪稱完美之選。
 
-## [SynchDB 1.3：用於從其他資料庫複製資料的擴充](https://postgresweekly.com/link/177684/web)
+## [SynchDB 1.3：用於從其他資料庫複製資料的插件](https://postgresweekly.com/link/177684/web)
 一款專門用於可靠地從其他資料庫系統（例如 MySQL、SQL Server 和 Oracle）複製資料的 Postgres 擴充。 v1.3 引入了一種新的、更快的基於 FDW 的快照引擎，以加快初始快照的效能。
 
 `Hornetlabs Technology Inc`

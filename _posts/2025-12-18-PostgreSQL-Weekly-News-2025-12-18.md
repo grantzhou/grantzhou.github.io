@@ -67,24 +67,24 @@ PostgreSQL 實例現已推出，僅需 5 美元。 [Aiven 全新開發者套餐]
 
 我們將在下一期回顧 2025 年的最佳項目，但現在，我們將重點介紹今年最受關注的庫、工具和版本：
 
-1. [微軟發布 VS Code「Postgres IDE」](https://postgresweekly.com/link/178689/web)－早在五月份，微軟就發布了其 VS Code 編輯器全新 Postgres 擴充功能的預覽版，該擴充功能允許用戶管理資料庫物件、使用 IntelliSense 建置查詢並與 Copilot 整合。
+* [微軟發布 VS Code「Postgres IDE」](https://postgresweekly.com/link/178689/web)－早在五月份，微軟就發布了其 VS Code 編輯器全新 Postgres 擴充功能的預覽版，該擴充功能允許用戶管理資料庫物件、使用 IntelliSense 建置查詢並與 Copilot 整合。
 
-微軟
+`Microsoft`
 
-2. [Multigres：Vitess for Postgres](https://postgresweekly.com/link/178690/web)——Vitess 是一個流行的 MySQL 擴展和分片集群系統，今年 Supabase 聘請了其創始人之一 Sugu Sougoumarane 來開發 Vitess for Postgres。目前該專案仍處於早期階段，但開發工作正在進行中。
+* [Multigres：Vitess for Postgres](https://postgresweekly.com/link/178690/web)——Vitess 是一個流行的 MySQL 擴展和分片集群系統，今年 Supabase 聘請了其創始人之一 Sugu Sougoumarane 來開發 Vitess for Postgres。目前該專案仍處於早期階段，但開發工作正在進行中。
 
-Paul Copplestone（Supabase）
+`Paul Copplestone（Supabase）`
 
-3. [DocumentDB：微軟為 Postgres 帶來更多 NoSQL 功能](https://postgresweekly.com/link/178693/web) — 此 DocumentDB 與亞馬遜專有的 DocumentDB 不同，它是一個基於 Postgres 構建的、採用 MIT 許可的文檔型 NoSQL 引擎，微軟最初將其用於內部的 Azure Cosmos DB for MongoDB。
+* [DocumentDB：微軟為 Postgres 帶來更多 NoSQL 功能](https://postgresweekly.com/link/178693/web) — 此 DocumentDB 與亞馬遜專有的 DocumentDB 不同，它是一個基於 Postgres 構建的、採用 MIT 許可的文檔型 NoSQL 引擎，微軟最初將其用於內部的 Azure Cosmos DB for MongoDB。
 
-微軟
+`Microsoft`
 
-4. [pgcalendar：循環日程的「無限」日曆功能](https://postgresweekly.com/link/178694/web) — 如果您需要儲存事件日程，並可能包含例外情況（例如假日或取消），此擴充功能提供了一種建模方法。範例。
+* [pgcalendar：循環日程的「無限」日曆功能](https://postgresweekly.com/link/178694/web) — 如果您需要儲存事件日程，並可能包含例外情況（例如假日或取消），此擴充功能提供了一種建模方法。範例。
 
-Huseyin Akbas
+`Huseyin Akbas`
 
-5. [PostgREST 14：Postgres 資料庫的 RESTful API](https://postgresweekly.com/link/178696/web) — 2025 年對於這款可以將 Postgres 資料庫直接轉換為 RESTful HTTP API 的獨立 Web 伺服器來說是忙碌的一年，v13 和 v14 版本均已發布。
+* [PostgREST 14：Postgres 資料庫的 RESTful API](https://postgresweekly.com/link/178696/web) — 2025 年對於這款可以將 Postgres 資料庫直接轉換為 RESTful HTTP API 的獨立 Web 伺服器來說是忙碌的一年，v13 和 v14 版本均已發布。
 
-Joe Nelson 與 Steve Chavez
+`Joe Nelson 與 Steve Chavez`
 
 🎄 這是 2025 年最後一期 Postgres Weekly——感謝您的閱讀、投稿連結和支持！我們將於 2026 年 1 月 7 日星期三回歸。到時見！

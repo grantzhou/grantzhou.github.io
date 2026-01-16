@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-3-3
 ---
 ### PostgreSQL每周新闻#395 - 2021年3月3日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/395)
 ![img](https://res.cloudinary.com/cpress/image/upload/e_grayscale,w_150,h_170,c_pad,g_south/xrupigpv8kyjqotfdgy8.jpg)
 ## [在Amazon RDS上设计高性能时间序列数据表](https://postgresweekly.com/link/103986/web)

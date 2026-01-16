@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-12-18
 ---
 ### PostgreSQL每周新闻#629 - 2025年12月18日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/628)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/nve4yipsoyaymtgsthde.jpg)
 ## [pg_textsearch 现已开源](https://postgresweekly.com/link/178669/webb)

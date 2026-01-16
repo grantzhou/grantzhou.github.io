@@ -7,7 +7,7 @@ title: 数据库每周新闻 2018-11-16
 ---
 
 ### 数据库每周新闻 #230 - 2018年11月16日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 ![_config.yml](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/ehqnv9x8rwprkpvowivj.jpg)
 
 [英文原文地址](https://dbweekly.com/issues/230)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-3-4
 ---
 ### PostgreSQL每周新闻#345 - 2020年3月4日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/345)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/nlwk6d6nenv6p2lxoget.jpg)
 

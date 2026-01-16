@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-4-28
 ---
 ### PostgreSQL每周新闻#403 - 2021年4月28日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/403)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/mpmyll9qnwg4j5kyudqe.jpg)
 ## [了解僵局](https://postgresweekly.com/link/106997/web)

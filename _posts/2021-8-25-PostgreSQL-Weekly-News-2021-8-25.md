@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-8-25
 ---
 ### PostgreSQL每周新闻#419 - 2021年8月25日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/419)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/uood2wvg03lmyw6by1nj.jpg)
 ## [使用CREATE INDEX：操作符表，索引类型等](https://postgresweekly.com/link/112750/web)

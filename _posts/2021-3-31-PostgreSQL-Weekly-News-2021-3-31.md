@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-3-31
 ---
 ### PostgreSQL每周新闻#399 - 2021年3月31日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/399)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/nve3nh9rfpzmx2xmipvm.jpg)
 ## [Postgres Optimizer如何工作并加快查询速度](https://postgresweekly.com/link/105452/web)

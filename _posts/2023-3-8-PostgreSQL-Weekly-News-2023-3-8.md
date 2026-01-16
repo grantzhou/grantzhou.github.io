@@ -7,7 +7,7 @@ layout: post
 title: PostgreSQL 每周新闻 2023-3-8
 ---
 ### PostgreSQL每周新闻#496 - 2023年3月8日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/496)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_300,h_160/e_make_transparent/co_white,e_outline:7/rrkstxca0vg7e1eww6yw.jpg)
 ## [Mathesar：Postgres 数据库的电子表格界面](https://postgresweekly.com/link/136406/web)

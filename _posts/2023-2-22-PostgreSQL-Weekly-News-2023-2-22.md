@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-2-22
 ---
 ### PostgreSQL每周新闻#494 - 2023年2月22日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/494)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_600,h_120/e_make_transparent/co_white,e_outline:7/a2rxjszdlb7fvtwyasiz.png)
 ## [使用 SQL 和 Mermaid 创建实体关系 (ER) 图](https://postgresweekly.com/link/135699/web)

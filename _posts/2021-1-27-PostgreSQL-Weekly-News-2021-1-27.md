@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-1-27
 ---
 ### PostgreSQL每周新闻#390 - 2021年1月27日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/390)
 ![img](https://res.cloudinary.com/cpress/image/upload/v1611669682/xnlqjbit939y7ykb9rvo.png)
 

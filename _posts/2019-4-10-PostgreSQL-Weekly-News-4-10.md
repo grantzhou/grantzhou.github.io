@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-04-10
 ---
 
 ### PostgreSQL每周新闻#300 - 2019年4月10日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/300)
 
@@ -70,7 +70,7 @@ vipsql2.0版本在几周前问世。
 
 `MARTIN GAMMELSÆTER`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由GitPrime提供支持
 
 选择表格行的“样本”

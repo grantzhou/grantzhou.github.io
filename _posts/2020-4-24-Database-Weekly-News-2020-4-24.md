@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2020-4-24
 ---
 ### 数据库每周新闻#301 - 2020年4月24日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/301)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1587678764/dt97vyp00tujyf6pusyq.jpg)
 

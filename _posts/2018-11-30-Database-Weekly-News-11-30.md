@@ -7,7 +7,7 @@ title: 数据库每周新闻 2018-11-30
 ---
 
 ### 数据库每周新闻 #231 - 2018年11月30日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 ![TITLEIMG](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/io0efuv9eikko4zdysm4.jpg)
 
 [英文原文地址](https://dbweekly.com/issues/231)

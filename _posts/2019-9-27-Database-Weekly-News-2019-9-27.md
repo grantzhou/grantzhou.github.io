@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2019-9-27
 ---
 ### 数据库每周新闻#273 - 2019年9月27日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/273)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/gbiu71no1qycppjaiuyk.jpg)
 

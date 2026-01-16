@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-11-13
 ---
 ### PostgreSQL每周新闻#577 - 2024年11月13日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/577)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/stfg0zxgqan7cak1j1vp.jpg)
 ## [pgvector 0.8.0 发布](https://postgresweekly.com/link/162180/web)

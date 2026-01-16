@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-11-1
 ---
 ### PostgreSQL每周新闻#528 - 2023年11月1日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/528)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/fp6nvxhxl8fgulotrd56.jpg)
 ## [让 Postgres 发挥作用：pg_cron 中的新功能](https://postgresweekly.com/link/147099/web)

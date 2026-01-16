@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-10-20
 ---
 ### PostgreSQL每周新闻#427 - 2021年10月20日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/427)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/kraydsj5otbilupwhdvl.jpg)
 ## [函数管道：将函数式编程构建到 Postgres 中？](https://postgresweekly.com/link/115100/web)

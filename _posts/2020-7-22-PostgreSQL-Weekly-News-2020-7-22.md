@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-7-22
 ---
 ### PostgreSQL每周新闻#365 - 2020年7月22日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/365)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1595411808/vqjkbubxjggoojnbjgyp.png)
 

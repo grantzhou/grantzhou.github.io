@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-7-26
 ---
 ### PostgreSQL每周新闻#516 - 2023年7月26日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/516)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v7rbnepgzc8ey5fs1uke.jpg)
 ## [给初学者的 10 个 Postgres 技巧](https://postgresweekly.com/link/142993/web)

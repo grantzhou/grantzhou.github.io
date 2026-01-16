@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2019-11-8
 ---
 ### 数据库每周新闻#279 - 2019年11月8日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/279)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1573220521/j2lht58kcsefavqck9ny.png)
 

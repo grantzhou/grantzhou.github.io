@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-11-24
 ---
 ### PostgreSQL每周新闻#432 - 2021年11月24日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/432)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/yxosxwkiuidkr8ilup3j.jpg)
 ## [Postgres 中的实体-属性-值 (EAV) 设计以及为什么不这样做](https://postgresweekly.com/link/116665/web)

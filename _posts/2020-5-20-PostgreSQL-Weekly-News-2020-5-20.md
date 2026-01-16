@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-5-20
 ---
 ### PostgreSQL每周新闻#356 - 2020年5月20日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/356)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/trdeh6ti1iqqeush4gxh.jpg)
 ## [Postgres中二进制数据性能的比较](https://postgresweekly.com/link/88546/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-8-5
 ---
 ### PostgreSQL每周新闻#367 - 2020年8月5日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/367)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1596547416/qmn0lierqiaaytaamyxd.jpg)
 ## [要注意关于Postgres 13的不兼容性](https://postgresweekly.com/link/92880/web)

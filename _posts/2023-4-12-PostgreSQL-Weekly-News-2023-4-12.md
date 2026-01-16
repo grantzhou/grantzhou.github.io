@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-4-12
 ---
 ### PostgreSQL每周新闻#501 - 2023年4月12日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/501)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_308,h_100/e_make_transparent/co_white,e_outline:7/vrltbo1rhou91lmjw2rl.png)
 ## [Postgres JSONB 函数和运算符备忘单](https://postgresweekly.com/link/138103/web)

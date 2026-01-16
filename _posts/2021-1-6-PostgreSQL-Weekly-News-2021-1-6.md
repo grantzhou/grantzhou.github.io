@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-1-6
 ---
 ### PostgreSQL每周新闻#387 - 2021年1月6日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/387)
 ![img](https://res.cloudinary.com/cpress/image/upload/e_grayscale,w_150,h_170,c_pad,g_south/xrupigpv8kyjqotfdgy8.jpg)
 ## [闲置的Postgres连接对性能的影响](https://postgresweekly.com/link/100711/web)

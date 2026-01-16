@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-02-06
 ---
 
 ### PostgreSQL每周新闻#291 - 2019年2月6日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/291)
 
@@ -69,7 +69,7 @@ Postgres的MVCC实现意味着它可以一次保留多个版本的数据，从�
 
 `AVINASH VALLARAPU`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由Dotadog提供支持
 ![data dog](https://res.cloudinary.com/cpress/image/upload/v1549285104/cdttwslojuv9zso9nswk.png)
 

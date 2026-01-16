@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-1-23
 ---
 ### PostgreSQL每周新闻#583 - 2025年1月23日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/585)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/mk5bzh3up1xchq0gse6b.jpg)
 ## [2024 年谁为 Postgres 发展做出了贡献？](https://postgresweekly.com/link/164673/web)

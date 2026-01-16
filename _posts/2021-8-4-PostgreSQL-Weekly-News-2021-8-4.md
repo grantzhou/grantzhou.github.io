@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-8-4
 ---
 ### PostgreSQL每周新闻#417 - 2021年8月4日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/417)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/kwib7zmkbkluky9km0bs.jpg)
 

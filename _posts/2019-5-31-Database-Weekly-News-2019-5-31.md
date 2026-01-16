@@ -7,7 +7,7 @@ title: 数据库每周新闻 2019-5-31
 ---
 
 ## 数据库每周新闻 #256 - 2019年5月31日
-![config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/256)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1559243458/h9ezqffxvml6khgza6gw.jpg)
 

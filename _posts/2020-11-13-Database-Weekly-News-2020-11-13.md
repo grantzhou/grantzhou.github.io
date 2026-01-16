@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2020-11-13
 ---
 ### 数据库每周新闻#330 - 2020年11月13日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/330)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/odu1rxzfphpzjee8whvb.jpg)
 

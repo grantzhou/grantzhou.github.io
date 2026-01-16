@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-9-7
 ---
 ### PostgreSQL每周新闻#470 - 2022年9月7日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/470)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v8dz1knqoxxajjzdvnll.jpg)
 ## [📊 如何使用 SQL 绘制 ASCII 条形图](https://postgresweekly.com/link/128373/web)

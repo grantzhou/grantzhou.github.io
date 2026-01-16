@@ -8,7 +8,7 @@ title: PostgreSQL 每周新闻 2019-7-31
 
 ### PostgreSQL每周新闻#316 - 2019年7月31日
 
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/316)
 

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-7-30
 ---
 ### PostgreSQL每周新闻#610 - 2025年7月30日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/610)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/khrspmmtn99ujhlnerps.jpg)
 ## [让 Postgres 慢 42,000 倍（因为我失业了）](https://postgresweekly.com/link/172500/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-9-22
 ---
 ### PostgreSQL每周新闻#423 - 2021年9月22日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/423)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/firsue8ggtdc2jitz45a.jpg)
 ## [百分比近似的工作原理（以及为什么它比平均值更有用）](https://postgresweekly.com/link/113932/web)

@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-6-5
 ---
 
 ### PostgreSQL每周新闻#308 - 2019年6月5日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/308)
 
@@ -63,7 +63,7 @@ title: PostgreSQL 每周新闻 2019-6-5
 
 `SQITCH`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由GitPrime提供支持 ![img](https://res.cloudinary.com/cpress/image/upload/v1554813939/kwagarrsergds4sxgjr9.png)
 
 ### 在psql中搜索旧查询

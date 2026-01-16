@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2020-2-14
 ---
 ### 数据库每周新闻#291 - 2020年2月14日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/291)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1581689462/m28uykskgcj68yfwqgss.png)
 

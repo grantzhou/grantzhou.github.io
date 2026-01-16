@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-9-4
 ---
 ### PostgreSQL每周新闻#568 - 2024年9月4日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/568)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/wymc982loxcwpkjvzxv1.jpg)
 ## [Postgres 17 中的三大功能](https://postgresweekly.com/link/158955/web)

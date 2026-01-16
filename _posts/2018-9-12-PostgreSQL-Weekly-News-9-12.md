@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2018-09-12
 ---
 
 ### PostgreSQL每周新闻 - 2018年9月12日
-![_config.yml]({{ site.baseurl }}/images/PGWeek0912.jpg)
+![_config.yml]({{ site.baseurl }}/assets/img/PGWeek0912.jpg)
 备注：[英文原文地址](https://postgresweekly.com/link/52649/web)
 
 ## [Postgres 11和 *即时编译(JIT)*查询](https://postgresweekly.com/link/52650/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2019-11-20
 ---
 ### PostgreSQL每周新闻#332 - 2019年11月20日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/332)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1574257437/fy33fypgt7wfbu9xlcjd.jpg)
 ## [JSONPath：一种JSON查询语言](https://postgresweekly.com/link/80195/web)

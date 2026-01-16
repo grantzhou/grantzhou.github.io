@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-9-13
 ---
 ### PostgreSQL每周新闻#521 - 2023年9月13日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/521)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/b1rvqbklldm5oxjiexlx.jpg)
 ## [解释 Postgres 的“冰山模因”](https://postgresweekly.com/link/144777/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2021-6-11
 ---
 ### 数据库每周新闻#358 - 2021年6月11日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/358)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/tywvu8ueyclyi1p4anqp.jpg)
 

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-6-2
 ---
 ### PostgreSQL每周新闻#408 - 2021年6月2日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/408)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/yq2nborw22ouwlnpkrjk.jpg)
 ## [Postgres 14中更好的JSON](https://postgresweekly.com/link/108947/web)

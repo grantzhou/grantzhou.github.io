@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-8-3
 ---
 ### PostgreSQL每周新闻#466 - 2022年8月3日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/466)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/vbgd6szk5vaodilgnpxn.jpg)
 ## [调试 Postgres Autovacuum 问题：13 条提示](https://postgresweekly.com/link/127027/web)

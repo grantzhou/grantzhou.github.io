@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2026-1-7
 ---
 ### PostgreSQL每周新闻#629 - 2026年1月7日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/630)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/hsvy3genjwv9bfv9klsi.jpg)
 ## [2025 年数据库展望：年度回顾](https://postgresweekly.com/link/178895/web)

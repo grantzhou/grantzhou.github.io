@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-3-11
 ---
 ### PostgreSQL每周新闻#346 - 2020年3月11日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/346)
 
 ## [Postgres子事务和性能](https://postgresweekly.com/link/85105/web)

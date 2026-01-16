@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-9-16
 ---
 ### PostgreSQL每周新闻#373 - 2020年9月16日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/373)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/npfedeq1xcsasm9ccppe.jpg)
 ## [GitLab如何（以及为什么）从Postgres 9.6升级到11 ](https://postgresweekly.com/link/95144/web)

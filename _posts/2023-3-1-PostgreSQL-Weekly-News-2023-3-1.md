@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-3-1
 ---
 ### PostgreSQL每周新闻#495 - 2023年3月1日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/495)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_740,h_100/e_make_transparent/co_white,e_outline:10/d9sktlkk3ipcaszkhybd.png)
 ## [使用 Postgres 进行欧洲路线规划](https://postgresweekly.com/link/136042/web)

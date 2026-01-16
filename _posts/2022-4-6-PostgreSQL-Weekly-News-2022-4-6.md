@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-4-6
 ---
 ### PostgreSQL每周新闻#449 - 2022年4月6日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/449)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/ovuvbxdhf0pftb24xu5l.jpg)
 ## [Postgres 如何选择用于查询的索引](https://postgresweekly.com/link/121864/web)

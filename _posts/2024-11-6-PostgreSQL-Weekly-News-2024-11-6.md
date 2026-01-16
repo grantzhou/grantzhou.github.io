@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-11-6
 ---
 ### PostgreSQL每周新闻#576 - 2024年11月6日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/576)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/hp4tf2174usd9lpqvgmo.jpg)
 ## [堵住 Postgres 升级漏洞？](https://postgresweekly.com/link/161846/web)

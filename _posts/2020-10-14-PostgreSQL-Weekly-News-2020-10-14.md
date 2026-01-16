@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-10-14
 ---
 ### PostgreSQL每周新闻#377 - 2020年10月14日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/377)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1602675284/fihmm34fouqnzxajl8p2.jpg)
 

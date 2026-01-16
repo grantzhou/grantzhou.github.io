@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-8-31
 ---
 ### PostgreSQL每周新闻#469 - 2022年8月31日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/469)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/zyauj12kmafhsls6apmh.jpg)
 ## [Postgres 15 中的 Stats Collector 去了哪里？](https://postgresweekly.com/link/128034/web)

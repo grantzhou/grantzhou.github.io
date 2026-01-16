@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-12-15
 ---
 ### PostgreSQL每周新闻#434 - 2021年12月15日
-![config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/435)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/gytyaf3xqdpjizp2w2qq.jpg)
 ## [案例研究：基于 Postgres 和 Citus 的英国 COVID-19 仪表板如何工作](https://postgresweekly.com/link/117506/web)

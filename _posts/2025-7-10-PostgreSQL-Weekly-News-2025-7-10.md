@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-7-10
 ---
 ### PostgreSQL每周新闻#607 - 2025年7月10日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/607)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/gqtuz5pep7m41a7lnblp.jpg)
 ## [SIGTERM 不作为：Postgres 之谜](https://postgresweekly.com/link/171587/web)

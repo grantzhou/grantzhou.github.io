@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-9-30
 ---
 ### PostgreSQL每周新闻#375 - 2020年9月30日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/375)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1601459537/oeuuwvsn6lijzdzybx6d.png)
 ## [Postgres 13发布](https://postgresweekly.com/link/95879/web)

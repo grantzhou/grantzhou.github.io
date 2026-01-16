@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-5-15
 ---
 ### PostgreSQL每周新闻#600 - 2025年5月15日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/600)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/dfj5uleaimiufr8dpzej.jpg)
 ## [PostgREST 13：Postgres 数据库的 RESTful API](https://postgresweekly.com/link/169390/web)

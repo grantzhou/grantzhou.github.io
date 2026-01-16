@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-3-13
 ---
 ### PostgreSQL每周新闻#591 - 2025年3月13日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/592)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ba1jmrccnqs6j7qcmuxk.jpg)
 ## [Citus 中的 1 万亿行？](https://postgresweekly.com/link/166811/web)

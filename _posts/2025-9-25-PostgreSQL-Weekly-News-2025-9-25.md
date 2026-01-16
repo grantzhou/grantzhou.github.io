@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-9-25
 ---
 ### PostgreSQL每周新闻#617 - 2025年9月25日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/617)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/iosout28y26yrnqummvo.jpg)
 ## [Postgres 18 发布](https://postgresweekly.com/link/174773/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-3-9
 ---
 ### PostgreSQL每周新闻#445 - 2022年3月9日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/445)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/wd66s8joho9jki6c3h62.jpg)
 ## [“我们如何将 Postgres 查询优化 100 倍”](https://postgresweekly.com/link/120609/web)

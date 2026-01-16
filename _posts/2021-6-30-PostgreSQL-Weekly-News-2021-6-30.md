@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-6-30
 ---
 ### PostgreSQL每周新闻#412 - 2021年6月30日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/412)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/cnwuagm5tkjflgdfo653.jpg)
 ## [在 EXPLAIN ANALYZE 中计算每次操作的时间](https://postgresweekly.com/link/110469/web)

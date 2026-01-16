@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2019-12-18
 ---
 ### PostgreSQL每周新闻#336 - 2019年12月18日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/336)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1576621869/fbx7orxszxhxlwdbiif6.png)
 

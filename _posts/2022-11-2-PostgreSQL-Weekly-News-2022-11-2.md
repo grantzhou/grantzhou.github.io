@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-11-2
 ---
 ### PostgreSQL每周新闻#479 - 2022年11月2日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/479)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,w_350,h_90/e_make_transparent/co_white,e_outline:7/vpntubykyv5ujmbzw501.png)
 ## [Postgres 数据仓库中的 B-tree 与 BRIN 索引](https://postgresweekly.com/link/130992/web)

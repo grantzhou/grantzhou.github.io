@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-11-18
 ---
 ### PostgreSQL每周新闻#382 - 2020年11月18日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/382)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/ultjzazwfrukgaealxsg.jpg)
 ## [pg_timetable V3发布](https://postgresweekly.com/link/98721/web)

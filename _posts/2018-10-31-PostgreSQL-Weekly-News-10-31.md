@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2018-10-31
 ---
 
 ### PostgreSQL每周新闻 #280 - 2018年10月31日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 ![_config.yml](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/lryxyrsuvdnx96r0x8tr.jpg)
 
 

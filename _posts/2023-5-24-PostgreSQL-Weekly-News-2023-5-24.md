@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-5-24
 ---
 ### PostgreSQL每周新闻#507 - 2023年5月24日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/507)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/xv7zxdw7y5twqnahnjvx.jpg)
 ## [在 Amazon RDS 上用 Rust 构建高性能函数](https://postgresweekly.com/link/140001/web)

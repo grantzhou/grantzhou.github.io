@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-3-2
 ---
 ### PostgreSQL每周新闻#444 - 2022年3月2日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/444)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/ueeegngjrj7ibpbgtzqs.jpg)
 ## [OrioleDB：Postgres 的新云原生存储引擎？](https://postgresweekly.com/link/120322/web)

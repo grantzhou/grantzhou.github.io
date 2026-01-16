@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-2-3
 ---
 ### PostgreSQL每周新闻#391 - 2021年2月3日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/391)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/wusf4vkgx3c1m1ctfnks.jpg)
 ## [意外发现释放了20GB未使用索引空间](https://postgresweekly.com/link/102307/web)

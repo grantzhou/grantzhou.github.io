@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-11-27
 ---
 ### PostgreSQL每周新闻#626 - 2025年11月27日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/626)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/qqnso0ubnlkmlojsw4nf.jpg)
 ## [Postgres 19 即将迎来超高速聚合](https://postgresweekly.com/link/177659/web)

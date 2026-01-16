@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-3-24
 ---
 ### PostgreSQL每周新闻#398 - 2021年3月24日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/398)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/lwkvswdsvysynlayygvj.jpg)
 ## [pg_query 2.0：解析Postgres查询的最简单方法](https://postgresweekly.com/link/105081/web)

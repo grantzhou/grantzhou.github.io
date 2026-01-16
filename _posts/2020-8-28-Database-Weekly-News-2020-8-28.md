@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2020-8-28
 ---
 ### 数据库每周新闻#319 - 2020年8月28日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/319)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1598615298/bncxmr43ntvxdxg3u0yx.png)
 

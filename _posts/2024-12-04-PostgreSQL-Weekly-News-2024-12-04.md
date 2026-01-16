@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-12-04
 ---
 ### PostgreSQL每周新闻#580 - 2024年12月04日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/580)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/fv3u0ffwlfvxgutpwsb1.jpg)
 ## [Amazon Aurora DSQL：一款新的 Postgres 兼容数据库](https://postgresweekly.com/link/163026/web)

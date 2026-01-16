@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2019-9-4
 ---
 ### PostgreSQL每周新闻#321 - 2019年9月4日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/321)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/nfgxq8b2htpbgfqcp0ue.jpg)
 ## [pspg：为postgres表设计的unix分页器](https://postgresweekly.com/link/69363/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2019-11-6
 ---
 ### PostgreSQL每周新闻#330 - 2019年11月6日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/330)
 ## [Postgres 12查询性能测试](https://postgresweekly.com/link/79523/web)
 我们很久之前就在期待Postgres12了，但它到底表现如何呢？Kaarel建立了不同规模的压力测试，然而没有明显的结论。

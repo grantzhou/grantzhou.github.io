@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2019-12-4
 ---
 ### PostgreSQL每周新闻#334 - 2019年12月4日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/334)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1575462602/ojtldtsmkuxexvq55nql.jpg)
 ## [发现鲜为人知的PostgreSQL 12功能](https://postgresweekly.com/link/80763/web)

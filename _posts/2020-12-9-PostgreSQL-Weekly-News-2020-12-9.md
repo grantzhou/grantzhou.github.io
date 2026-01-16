@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-12-9
 ---
 ### PostgreSQL每周新闻#385 - 2020年12月9日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/385)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1607518322/d1nj838ojgba9lfbq8hr.png)
 ## [MongoDB到PostgreSQL的无缝迁移](https://postgresweekly.com/link/99941/web)

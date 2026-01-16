@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-7-13
 ---
 ### PostgreSQL每周新闻#463 - 2022年7月13日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/463)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/s9qtubbavnoqyklkrzoh.jpg)
 ## [Postgres 15 如何改进UNIQUE以及NULL](https://postgresweekly.com/link/126098/web)

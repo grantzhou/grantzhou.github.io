@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2018-09-19
 ---
 
 ### PostgreSQL每周新闻 #274 - 2018年9月19日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/274)
 

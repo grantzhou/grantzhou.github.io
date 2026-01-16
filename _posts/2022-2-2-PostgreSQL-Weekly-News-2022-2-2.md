@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-2-2
 ---
 ### PostgreSQL每周新闻#440 - 2022年2月2日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/440)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/gpmoyblovpfrdarbqcbw.jpg)
 ## [时间戳和时区：你需要做什么和不需要知道什么](https://postgresweekly.com/link/119196/web)

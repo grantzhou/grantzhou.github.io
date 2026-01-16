@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-6-10
 ---
 ### PostgreSQL每周新闻#359 - 2020年6月10日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/359)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1591718357/nasfptyqnxqgg5uzinqb.png)
 

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-3-23
 ---
 ### PostgreSQL每周新闻#447 - 2022年3月23日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/447)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/uu4e57imwmrvly2v6zsi.jpg)
 ## [使用 plprofiler 在 Amazon RDS 或 Aurora 上分析 PL/pgSQL 代码](https://postgresweekly.com/link/121287/web)

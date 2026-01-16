@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2019-12-13
 ---
 ### 数据库每周新闻#284 - 2019年12月13日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/284)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1576246057/zcbqw5bzo2xgjyfhv7zl.png)
 

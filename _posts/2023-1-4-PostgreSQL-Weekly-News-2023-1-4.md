@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-1-4
 ---
 ### PostgreSQL每周新闻#487 - 2023年1月4日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/487)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_740,h_100/e_make_transparent/co_white,e_outline:10/d9sktlkk3ipcaszkhybd.png)
 ## [使用 Postgres 生成大量测试数据的不同级别](https://postgresweekly.com/link/133486/web)

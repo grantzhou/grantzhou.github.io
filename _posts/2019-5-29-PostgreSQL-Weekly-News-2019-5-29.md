@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-5-29
 ---
 
 ### PostgreSQL每周新闻#307 - 2019年5月29日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/307)
 
@@ -73,7 +73,7 @@ title: PostgreSQL 每周新闻 2019-5-29
 
 `SEQUELIZE`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由PERCONA提供支持
 
 使用Docker启动快速，临时的Postgres实例

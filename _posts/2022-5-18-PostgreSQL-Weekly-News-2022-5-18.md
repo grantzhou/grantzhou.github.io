@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-5-18
 ---
 ### PostgreSQL每周新闻#455 - 2022年5月18日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/455)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/ycm7mm2ynvs9dxxbuwh7.jpg)
 ## [Google Cloud 推出了适用于 PostgreSQL 的 AlloyDB](https://postgresweekly.com/link/123595/web)

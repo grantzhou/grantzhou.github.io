@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-1-9
 ---
 
 ### PostgreSQL每周新闻#287 - 2019年1月9日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/287)
 

@@ -7,7 +7,7 @@ title: 数据库每周新闻 2019-3-29
 ---
 
 ## 数据库每周新闻 #247 - 2019年3月29日
-![config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/247)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/ujrnhvi0iljfsxwgwgcm.jpg)
 

@@ -8,7 +8,7 @@ title: 数据库每周新闻 2019-8-2
 
 ## 数据库每周新闻 #264 - 2019年8月2日
 
-![config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/264)
 
 ![img](<https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1564746944/xbsqve5qlclfidkbjbhh.jpg>)

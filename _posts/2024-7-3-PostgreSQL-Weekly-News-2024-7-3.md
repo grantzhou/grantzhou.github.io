@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-7-3
 ---
 ### PostgreSQL每周新闻#556 - 2024年7月3日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/560)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/xhtzylhdtbjhlgly9xga.jpg)
 ## [PostgreSQL 17 Beta 2 发布](https://postgresweekly.com/link/157053/web)

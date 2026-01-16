@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-5-8
 ---
 ### PostgreSQL每周新闻#599 - 2025年5月8日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/598)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/omacmxvsxigzrz01yepn.jpg)
 ## [Postgres 18 发行说明草稿](https://postgresweekly.com/link/169068/web)

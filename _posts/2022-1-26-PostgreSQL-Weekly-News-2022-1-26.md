@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-1-26
 ---
 ### PostgreSQL每周新闻#439 - 2022年1月26日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/439)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/gb9ywcridxgik91rsomr.jpg)
 ## [PostGIS 的高程剖面和飞行路线](https://postgresweekly.com/link/118947/web)

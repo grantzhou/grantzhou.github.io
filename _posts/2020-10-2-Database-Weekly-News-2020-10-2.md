@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2020-10-2
 ---
 ### 数据库每周新闻#324 - 2020年10月2日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/324)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1601637228/raswab3zjvnlsrfimypa.jpg)
 

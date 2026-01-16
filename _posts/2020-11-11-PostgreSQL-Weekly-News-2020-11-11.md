@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-11-11
 ---
 ### PostgreSQL每周新闻#381 - 2020年11月11日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/381)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/hzpplmat7ekv9pzew8ha.jpg)
 

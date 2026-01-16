@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-4-3
 ---
 ### PostgreSQL每周新闻#549 - 2024年4月3日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/549)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/bwlp6dezovelszoib7z4.jpg)
 ## [安息吧 Postgres 维护者 Simon Riggs](https://postgresweekly.com/link/153258/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-9-21
 ---
 ### PostgreSQL每周新闻#472 - 2022年9月21日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/472)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/yunuozfyybzlxswa1zc6.jpg)
 ## [pg_activity 3.0：类似于HTOP的活动监控工具](https://postgresweekly.com/link/128997/web)

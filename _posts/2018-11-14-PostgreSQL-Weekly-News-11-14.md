@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2018-11-14
 ---
 
 ### PostgreSQL每周新闻 #282 - 2018年11月14日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 ![_config.yml](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/gbjg8tv40u9lhl2mikl1.jpg)
 
 [阅读原文](https://postgresweekly.com/issues/282)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-12-13
 ---
 ### PostgreSQL每周新闻#534 - 2023年12月13日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/534)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/l6mvpevlvafms8zr7pyh.jpg)
 ## [抢先一睹 2023 年 PostgreSQL 的状况](https://postgresweekly.com/link/148941/web)

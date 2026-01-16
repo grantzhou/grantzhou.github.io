@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-9-18
 ---
 ### PostgreSQL每周新闻#616 - 2025年9月18日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/616)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/s9qtubbavnoqyklkrzoh.jpg)
 ## [「数据库不接受指令」：现在该怎么办？](https://postgresweekly.com/link/174454/web)

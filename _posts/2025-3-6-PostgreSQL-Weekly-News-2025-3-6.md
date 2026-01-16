@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-3-6
 ---
 ### PostgreSQL每周新闻#591 - 2025年3月6日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/591)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/bi8megyvt00waotwhffn.jpg)
 ## [FerretDB 2.0：开源 MongoDB 替代品](https://postgresweekly.com/link/166521/web)

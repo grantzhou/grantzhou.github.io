@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-10-9
 ---
 ### PostgreSQL每周新闻#573 - 2024年10月9日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/573)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/oryz3jythgmfegnhmxay.jpg)
 ## [优化 Postgres 表布局以实现最高效率](https://postgresweekly.com/link/160787/web)

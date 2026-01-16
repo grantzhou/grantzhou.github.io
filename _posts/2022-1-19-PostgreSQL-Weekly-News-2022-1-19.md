@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-1-19
 ---
 ### PostgreSQL每周新闻#438 - 2022年1月19日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/438)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/hoz3hob05svsid73aajt.jpg)
 ## [五个容易错过的 Postgres 查询性能瓶颈](https://postgresweekly.com/link/118575/web)

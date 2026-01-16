@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-6-26
 ---
 
 ### PostgreSQL每周新闻#310 - 2019年6月26日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/311)
 
@@ -59,7 +59,7 @@ Postgres的下一个版本提供了对SQL/JSON语言的支持，该语言提供�
 
 `ELEIN MUSTAIN`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由percona提供支持
 
 ### 现在替换SERIAL列的方法

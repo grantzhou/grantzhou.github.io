@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-11-6
 ---
 ### PostgreSQL每周新闻#623 - 2025年11月6日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/623)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/gyp9wmug1js5rwoeb5xc.jpg)
 ## [不要给 Postgres 分配过多记忆体](https://postgresweekly.com/link/176669/web)

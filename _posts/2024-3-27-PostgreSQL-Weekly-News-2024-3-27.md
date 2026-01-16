@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-3-27
 ---
 ### PostgreSQL每周新闻#548 - 2024年3月27日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/548)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/zlzorvhbggampjojw3kb.jpg)
 ## [从 Postgres 表中恢复已删除的数据](https://postgresweekly.com/link/153008/web)

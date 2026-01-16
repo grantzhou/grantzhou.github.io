@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-11-8
 ---
 ### PostgreSQL每周新闻#529 - 2023年11月8日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/529)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/cnztjdobei13tdsxzjxr.jpg)
 ## [Postgres加密：可用选项](https://postgresweekly.com/link/147410/web)

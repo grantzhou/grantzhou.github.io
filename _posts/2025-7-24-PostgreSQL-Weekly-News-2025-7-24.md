@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-7-24
 ---
 ### PostgreSQL每周新闻#608 - 2025年7月24日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/609)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/dtx3obv2bt4zodzr7hzr.jpg)
 ## [Postgres 18 Beta 2 发布](https://postgresweekly.com/link/172192/web)

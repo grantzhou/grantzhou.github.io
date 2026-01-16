@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2019-11-22
 ---
 ### 数据库每周新闻#281 - 2019年11月22日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/281)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/dp2xwu15d3kin5jaoog8.jpg)
 

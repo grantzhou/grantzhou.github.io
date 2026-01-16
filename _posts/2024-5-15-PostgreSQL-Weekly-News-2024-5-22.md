@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-5-22
 ---
 ### PostgreSQL每周新闻#556 - 2024年5月22日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/556)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/jq618vrw8lqcuxlkqocu.jpg)
 ## [pg_timeseries 简介：一种新的时间序列扩展](https://postgresweekly.com/link/155406/web)

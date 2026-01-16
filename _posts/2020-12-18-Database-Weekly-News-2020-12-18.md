@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2020-12-18
 ---
 ### 数据库每周新闻#335 - 2020年12月18日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/335)
 ![img](https://copm.s3.amazonaws.com/d02a2b7d.png)
 

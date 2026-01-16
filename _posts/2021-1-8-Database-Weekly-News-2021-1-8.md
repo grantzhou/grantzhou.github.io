@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2021-1-8
 ---
 ### 数据库每周新闻#336 - 2021年1月8日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/336)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/sgsagbkbipxpqwgvasuo.jpg)
 

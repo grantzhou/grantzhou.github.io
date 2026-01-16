@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-2-19
 ---
 ### PostgreSQL每周新闻#343 - 2020年2月19日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/343)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/stjqbsburp6eg7cn5ehl.jpg)
 

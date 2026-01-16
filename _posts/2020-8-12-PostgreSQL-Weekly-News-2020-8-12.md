@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-8-12
 ---
 ### PostgreSQL每周新闻#368 - 2020年8月12日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/368)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/bduujyk1y2kizpzkyo73.jpg)
 

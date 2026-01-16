@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-6-24
 ---
 ### PostgreSQL每周新闻#361 - 2020年6月24日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/361)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1592996647/hzfrltkirjio5g3b34nj.jpg)
 ## [Postgres可以改善的“十件事”](https://postgresweekly.com/link/90641/web)

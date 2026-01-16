@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-7-17
 ---
 ### PostgreSQL每周新闻#608 - 2025年7月17日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/608)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/sevyutm3vm21r3kje9lj.jpg)
 ## [📊 Xata 对 PlanetScale 的 Postgres 基准测试的反应](https://postgresweekly.com/link/171884/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2019-9-25
 ---
 ### PostgreSQL每周新闻#324 - 2019年9月25日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/324)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/zuyhvrqygnckzoxroci6.jpg)
 ## [高级sql：查看“窗口框架”](https://postgresweekly.com/link/77458/web)

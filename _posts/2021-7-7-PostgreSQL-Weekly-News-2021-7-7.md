@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-7-7
 ---
 ### PostgreSQL每周新闻#413 - 2021年7月7日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/413)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/fsov0xxtno1flu4npziy.jpg)
 ## [使用 dblink 和复制延迟模拟临时表](https://postgresweekly.com/link/110711/web)

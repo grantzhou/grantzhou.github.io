@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-6-19
 ---
 
 ### PostgreSQL每周新闻#310 - 2019年6月19日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/310)
 
@@ -59,7 +59,7 @@ title: PostgreSQL 每周新闻 2019-6-19
 
 `POSTGRESQL WIKI`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由pganalyze提供支持
 
 ### CREATE TABLE的LIKE选项  

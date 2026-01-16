@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-6-22
 ---
 ### PostgreSQL每周新闻#460 - 2022年6月22日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/460)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/ctmux0lxk5sgijmm3kkf.jpg)
 ## [用于 Postgres 的 Citus 11 完全开源](https://postgresweekly.com/link/125080/web)

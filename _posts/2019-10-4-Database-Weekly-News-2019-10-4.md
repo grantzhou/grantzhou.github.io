@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2019-10-4
 ---
 ### 数据库每周新闻#274 - 2019年10月4日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/274)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1570192364/csn9daitwiprdsnhj3pq.jpg)
 

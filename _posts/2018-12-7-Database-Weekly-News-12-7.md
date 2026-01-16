@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2018-12-07
 ---
 ### 数据库每周新闻 #232 - 2018年12月07日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 ![_config.yml](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/jc9pnjtwtetchmehyoj8.jpg)
 
 

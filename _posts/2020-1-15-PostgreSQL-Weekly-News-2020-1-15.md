@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-1-15
 ---
 ### PostgreSQL每周新闻#338 - 2020年1月15日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/338)
 
 ## [如何为Postgres创建、测试和调试用C编写的扩展](https://postgresweekly.com/link/82338/web)

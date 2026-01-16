@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-2-23
 ---
 ### PostgreSQL每周新闻#443 - 2022年2月23日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/443)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/cmaqkkk8kwruyhmux7bp.jpg)
 ## [⭐️ 使用 Trigram 优化 Postgres 文本搜索](https://postgresweekly.com/link/120059/web)

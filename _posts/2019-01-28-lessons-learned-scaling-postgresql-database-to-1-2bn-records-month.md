@@ -10,7 +10,7 @@ title: Lessons learned scaling PostgreSQL database to 1.2bn records/month
 ### Choosing where to host the database, materialising data and using database as a job queue
 Go to the profile of Gajus Kuizinas
 
-![Gajus Kuizinas]({{ site.baseurl }}/images/GajusKuizinas.png) [Gajus Kuizinas](https://medium.com/@gajus)
+![Gajus Kuizinas]({{ site.baseurl }}/assets/img/GajusKuizinas.png) [Gajus Kuizinas](https://medium.com/@gajus)
 Jan 28 | 18 min read
 
 This isn’t my first rodeo with large datasets. The authentication and product management database that I have designed for the largest UK public Wi-Fi provider had impressive volumes too. We were tracking authentication for millions of devices daily. However, that project had a funding that allowed us to pick any hardware, any supporting services and hire any DBAs to assist with replication/data warehousing/troubleshooting. Furthermore, all analytics queries/reporting were done off logical replicas and there were multiple sysadmins that looked after the supporting infrastructure. Whereas this was a venture of my own, with limited funding and 20x the volume.
@@ -28,7 +28,7 @@ I am a co-founder of a company [Applaudience](https://applaudience.com/). We agg
 
 We currently track 3200+ cinemas across 22 territories in Europe and the US. This approximates to 47,000 showtimes/day. Every time a person reserves or purchases a ticket from either of these cinemas, we capture a snapshot describing attributes of every seat in the auditorium.
 
-![monitor image]({{ site.baseurl }}/images/pw0130a1.png)
+![monitor image]({{ site.baseurl }}/assets/img/pw0130a1.png)
 How we monitor data aggregation and detect anomalies is whole another topic. However, having PostgreSQL as the single source of truth about all data that is being aggregated and all the processes that aggregate the data made it a lot easier.
 This adds up to 1.2bn records/month, and thats just for the admissions data.
 
@@ -55,7 +55,7 @@ Then we secured credits from Amazon and migrated to [Amazon RDS for PostgreSQL](
 Then we moved to [Aiven.io](https://aiven.io/). Aiven.io manages PostgreSQL database for you on your cloud service provider of choice. It had all the [extensions](https://help.aiven.io/postgresql/extensions/supported-postgresql-extensions) that I needed (including TimescaleDB), it did not lock us in with a particular server provider (meaning we could host our Kubernetes cluster on either of the Aiven.io supported providers), their support was helpful from the first interaction and my due diligence came back only with praise. However, what I have overlooked is that you [do not get superuser access](https://help.aiven.io/postgresql/operations/postgresql-superuser-access). This resulted in numerous issues (e.g., various maintenance procedures we have been using stopped working and we couldn’t use our monitoring software due to permission issues; unable to use [*auto_explain*](https://www.postgresql.org/docs/current/auto-explain.html); logical replication requires custom extensions) and long outages that could have been prevented.
 
 In general, I didn’t understand what added value Aiven.io provides – we weren’t even warned when the database was running out of storage.
-![monitor image]({{ site.baseurl }}/images/pw0130a2.png)
+![monitor image]({{ site.baseurl }}/assets/img/pw0130a2.png)
 
 When this happened, support offered to upgrade the instance to one with a larger volume. While this is a fine solution, it caused a longer than necessary outage. Someone with SSH access could have diagnosed and fixed this issue in couple of minutes.
 
@@ -441,7 +441,7 @@ The takeaway here is that PostgreSQL materialized views are a great feature for 
 This has less to do with the volume of the data that we process and more with how we are using the database. As I mentioned earlier, my goal was to reduce the number of services that participate in the data processing pipeline. The added benefit of containing the job queue within a database is that you are able to keep and query records of all jobs (and their attributes) associated with every data point that is in the database. Being able query jobs and logs associated with every data point, join it with parent and descendent jobs, etc. proved extremely valuable for flagging failing jobs and pin-pointing the origin of the issue.
 
 
-![sim image]({{ site.baseurl }}/images/pw0130a3.jpeg)
+![sim image]({{ site.baseurl }}/assets/img/pw0130a3.jpeg)
 #### Building a simple, reliable and efficient concurrent work queues using PostgreSQL.
 
 It is worth noting that normally, a RDBMs would be a poor choice for a concurrent job queue (for reasons outlined in [What is SKIP LOCKED for in PostgreSQL 9.5?](https://blog.2ndquadrant.com/what-is-select-skip-locked-for-in-postgresql-9-5/)). However, in case of PostgreSQL, we can use *FOR UPDATE … SKIP LOCKED* to build a simple, reliable and efficient concurrent work queues. The downside is the performance:
@@ -539,7 +539,7 @@ These 3 things were the biggest challenges when scaling the database. Some other
 
 - When you have hundreds of clients each running dozens of queries a second then latency between the database and the database clients matters a lot. I have observed that the latency between our database (at the time) hosted on AWS RDS and our Kubernetes cluster hosted on GKE was 12ms. By moving the database to the same datacenter and reducing latency to <1ms, our job throughout increased 4x.
 
-![cloud image]({{ site.baseurl }}/images/pw0130a4.png)
+![cloud image]({{ site.baseurl }}/assets/img/pw0130a4.png)
 Identifying latency between different cloud providers.
 
 - Column order matters. We have tables with 60+ columns. Ordering columns to avoid padding saved 20%+ storage (https://blog.2ndquadrant.com/on-rocks-and-sand/).
@@ -561,6 +561,6 @@ I want to thank [Freenode](https://freenode.net/) #postgresql community for the 
 [Programming](https://medium.com/tag/programming?source=post) [Postgres](https://medium.com/tag/postgres?source=post) [Postgresql](https://medium.com/tag/postgresql?source=post) [Database](https://medium.com/tag/database?source=post) [Database Administration](https://medium.com/tag/database-administration?source=post)
 
 ### Gajus Kuizinas
-![Gajus Kuizinas]({{ site.baseurl }}/images/GajusKuizinas.png) [Gajus Kuizinas](https://medium.com/@gajus)
+![Gajus Kuizinas]({{ site.baseurl }}/assets/img/GajusKuizinas.png) [Gajus Kuizinas](https://medium.com/@gajus)
 Medium member since Jan 2019
 Software architect, startup adviser. Editor of https://medium.com/applaudience. Founder of https://go2cinema.com.

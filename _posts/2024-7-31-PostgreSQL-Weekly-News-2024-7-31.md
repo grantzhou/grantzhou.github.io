@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-7-31
 ---
 ### PostgreSQL每周新闻#565 - 2024年7月31日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/565)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/uyzd9ns4dadbvyccch1t.jpg)
 ## [pg_statviz：Postgres 统计数据的时间序列分析和可视化](https://postgresweekly.com/link/158227/web)

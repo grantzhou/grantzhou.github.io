@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-9-14
 ---
 ### PostgreSQL每周新闻#471 - 2022年9月14日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/471)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/y865x5tl8zwchiahdy4i.jpg)
 ## [选择主键标识符格式：选项](https://postgresweekly.com/link/128701/web)

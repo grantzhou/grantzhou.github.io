@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-9-28
 ---
 ### PostgreSQL每周新闻#473 - 2022年9月28日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/473)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v1664368643/rkwxkdhjtmn08a20bjne.jpg)
 ## [pgsqlite：将 SQLite 数据库导入 Postgres 的 Python 模块](https://postgresweekly.com/link/129295/web)

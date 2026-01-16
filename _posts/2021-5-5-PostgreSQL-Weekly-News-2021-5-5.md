@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-5-5
 ---
 ### PostgreSQL每周新闻#404 - 2021年5月5日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/404)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/psuhygcnaxoh6wlhdjje.jpg)
 ## [使用SQL，PL / PGSQL和Python创建测试数据](https://postgresweekly.com/link/107378/web)

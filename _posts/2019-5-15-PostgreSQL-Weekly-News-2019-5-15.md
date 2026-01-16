@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-5-15
 ---
 
 ### PostgreSQL每周新闻#305 - 2019年5月15日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/305)
 
@@ -75,7 +75,7 @@ Slug是指字符串优化显示策略，我们通常在app上实现这个功能�
 
 `GRAPHILE`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由Microsoft Azure提供支持
 
 Postgres拥有比你想象中更多的数据类型：了解IP地址和网络  

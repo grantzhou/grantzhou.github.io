@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-10-30
 ---
 ### PostgreSQL每周新闻#622 - 2025年10月30日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/622)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/fxxr7ew1lsnr4rl5kffr.jpg)
 ## [pgfeaturediff：比较 Postgres 版本之间的功能](https://postgresweekly.com/link/176351/web)

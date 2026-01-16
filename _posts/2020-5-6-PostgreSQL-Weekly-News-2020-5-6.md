@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-5-6
 ---
 ### PostgreSQL每周新闻#354 - 2020年5月6日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/354)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/lxwnydmo4bpoa6o9dqhl.jpg)
 ## [pgModeler：一个Postgres数据库建模工具](https://postgresweekly.com/link/87746/web)

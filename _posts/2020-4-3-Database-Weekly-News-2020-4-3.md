@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2020-4-3
 ---
 ### 数据库每周新闻#298 - 2020年4月3日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/298)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/rsiws90etsyjbzlxirzm.jpg)
 

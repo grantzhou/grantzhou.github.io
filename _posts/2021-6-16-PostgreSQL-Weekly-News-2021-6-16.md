@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-6-16
 ---
 ### PostgreSQL每周新闻#410 - 2021年6月16日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/410)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/zeaaliqt2rrnamgrjdfi.jpg)
 ## [关于 Postgres 的优化器方法论](https://postgresweekly.com/link/109661/web)

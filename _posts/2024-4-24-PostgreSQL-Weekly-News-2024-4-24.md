@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-4-24
 ---
 ### PostgreSQL每周新闻#552 - 2024年4月24日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/552)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/eptvqhqvvax5evxaxp2q.jpg)
 ## [PDF：MySQL 的未来是 Postgres](https://postgresweekly.com/link/154132/web)

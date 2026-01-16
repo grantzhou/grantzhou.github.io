@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-8-21
 ---
 ### PostgreSQL每周新闻#566 - 2024年8月21日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/566)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ibspujzcfsdysseetixe.jpg)
 ## [Postgres 的每个维护产品线都有新版本发布](https://postgresweekly.com/link/158704/webb)

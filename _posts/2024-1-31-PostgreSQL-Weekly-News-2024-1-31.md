@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-1-31
 ---
 ### PostgreSQL每周新闻#540 - 2024年1月31日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/540)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/rmrxh02ntgmptq2xt5d3.jpg)
 ## [迈向理想的 Postgres 扩展生态系统](https://postgresweekly.com/link/150709/web)

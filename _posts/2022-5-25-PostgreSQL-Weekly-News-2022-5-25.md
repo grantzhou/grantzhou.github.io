@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-5-25
 ---
 ### PostgreSQL每周新闻#456 - 2022年5月25日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/456)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/dxpjerumowllwolram7f.jpg)
 ## [PostgreSQL Anonymizer 1.0：Postgres 的隐私设计](https://postgresweekly.com/link/123868/web)

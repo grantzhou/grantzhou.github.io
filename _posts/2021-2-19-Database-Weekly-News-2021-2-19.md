@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2021-2-19
 ---
 ### 数据库每周新闻#342 - 2021年2月19日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/342)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/ymhovlf03bxfqkg29az3.jpg)
 

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-5-1
 ---
 ### PostgreSQL每周新闻#553 - 2024年5月1日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/553)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/s3diq7eox8hkpfsn0jgj.jpg)
 ## [Crunchy Bridge分析：Your Data Lake in Postgres? ](https://postgresweekly.com/link/154439/web)

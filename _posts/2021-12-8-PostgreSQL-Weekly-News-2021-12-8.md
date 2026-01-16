@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-12-8
 ---
 ### PostgreSQL每周新闻#434 - 2021年12月8日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/434)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/zjceqauobhlzgzbmberf.jpg)
 ## [pg_graphql：Postgres 的 GraphQL 扩展](https://postgresweekly.com/link/117209/web)

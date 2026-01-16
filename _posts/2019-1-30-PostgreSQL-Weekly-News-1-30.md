@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-1-30
 ---
 
 ### PostgreSQL每周新闻#290 - 2019年1月30日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/290)
 
@@ -68,7 +68,7 @@ Postgres如何在幕后工作的图表。 您可以单击每个项目以获取�
 
 `JONATHAN S. KATZ`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 
 如何可视化您的查询计划
 

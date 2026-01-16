@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-03-20
 ---
 
 ### PostgreSQL每周新闻#297 - 2019年3月20日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/297)
 
@@ -59,7 +59,7 @@ postgres_fdw有一些隐藏的调优选项，但是大部分用户并不知道�
 
 `AVINASH VALLARAPU`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由Citus Data提供支持
 
 ## 在psql中使用\watch 

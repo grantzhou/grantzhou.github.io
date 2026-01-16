@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-6-26
 ---
 ### PostgreSQL每周新闻#556 - 2024年6月26日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/560)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ihrht59lk1g6kbuuqgrd.jpg)
 ## [使 Postgres 可见性地图可见](https://postgresweekly.com/link/156790/web)

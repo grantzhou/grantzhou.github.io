@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-5-4
 ---
 ### PostgreSQL每周新闻#453 - 2022年5月4日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/453)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/lljednvtgyp6bvwqzpyw.jpg)
 ## [看看（未来）并行服务器端备份压缩](https://postgresweekly.com/link/122999/web)

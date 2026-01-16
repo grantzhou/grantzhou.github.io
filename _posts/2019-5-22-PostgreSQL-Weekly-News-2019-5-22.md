@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-5-22
 ---
 
 ### PostgreSQL每周新闻#306 - 2019年5月22日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/306)
 
@@ -73,7 +73,7 @@ pgBackRest添加了一些Postgres数据库备份必须具备的功能
 
 
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由GitPrime提供支持
 
 Domains：将检查约束和默认值捆绑为简单类型的方法

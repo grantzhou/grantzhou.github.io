@@ -8,7 +8,7 @@ title: 数据库每周新闻 2019-8-16
 
 ## 数据库每周新闻 #267 - 2019年8月16日
 
-![config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/266)
 
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/wgyfhodlxhxjjbht6jc3.jpg)

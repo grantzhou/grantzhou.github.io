@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-11-15
 ---
 ### PostgreSQL每周新闻#530 - 2023年11月15日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/530)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/knva7pu6zhv8xiyp2f8j.jpg)
 ## [Postgres 16.1、15.5、14.10、13.13、12.17 和 11.22 已发布](https://postgresweekly.com/link/147767/web)

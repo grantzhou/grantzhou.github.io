@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-10-13
 ---
 ### PostgreSQL每周新闻#426 - 2021年10月13日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/426)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/o4hdgv48fcfqo5jkxglz.jpg)
 ## [Google Cloud Spanner 添加与 Postgres 兼容的接口](https://postgresweekly.com/link/114775/web)

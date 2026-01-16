@@ -7,7 +7,7 @@ title: 数据库每周新闻 2018-12-14
 ---
 
 ### 数据库每周新闻 #233 - 2018年12月14日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 ![_config.yml](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/ugsyvti1xrwegmn79pcy.jpg)
 
 [英文原文地址](https://dbweekly.com/issues/233)

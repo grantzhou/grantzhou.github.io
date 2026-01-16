@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2018-12-12
 ---
 
 ### PostgreSQL每周新闻 #285 - 2018年12月12日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 ![_config.yml](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/vwffcnrvp1sqpwocqman.jpg)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/285)

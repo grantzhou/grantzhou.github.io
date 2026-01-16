@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-8-7
 ---
 ### PostgreSQL每周新闻#611 - 2025年8月78日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/611)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/rjikvpj3fqkuniwzqb6n.jpg)
 ## [Postgres 复制槽：确认刷新 LSN 与重启 LSN](https://postgresweekly.com/link/172818/web)

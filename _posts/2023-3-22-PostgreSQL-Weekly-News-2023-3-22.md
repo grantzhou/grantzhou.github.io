@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-3-22
 ---
 ### PostgreSQL每周新闻#498 - 2023年3月22日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/498)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_330,h_112/e_make_transparent/co_white,e_outline:5/glyygzju08rfcfwf2sxw.png)
 ## [简易Postgres时间箱](https://postgresweekly.com/link/137132/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2019-11-15
 ---
 ### 数据库每周新闻#280 - 2019年11月15日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/280)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/dggvz2cxcd7smdsh0rax.jpg)
 

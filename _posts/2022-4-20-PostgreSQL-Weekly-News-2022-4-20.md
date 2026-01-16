@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-4-20
 ---
 ### PostgreSQL每周新闻#451 - 2022年4月20日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/451)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/yrwb1ikowjn298kv96jx.jpg)
 ## [Retool 如何将其 4TB Postgres 数据库升级到 v13](https://postgresweekly.com/link/122484/web)

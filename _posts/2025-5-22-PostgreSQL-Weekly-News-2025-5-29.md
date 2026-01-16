@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-5-29
 ---
 ### PostgreSQL每周新闻#602 - 2025年5月29日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/602)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/q3plmo60gxww7dzvldpy.jpg)
 ## [OpenAI 如何将 Postgres 扩展至更高水平](https://postgresweekly.com/link/169815/web)

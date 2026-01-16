@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-12-4
 ---
 ### PostgreSQL每周新闻#626 - 2025年12月4日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/627)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/rgnw8r0j0wkkom96fzut.jpg)
 ## [关于Postgres中JSON资料的高效储存](https://postgresweekly.com/link/177987/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-2-6
 ---
 ### PostgreSQL每周新闻#587 - 2025年2月6日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/587)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/na8hucfslyi8dzrshv3h.jpg)
 ## [仅仅因为您进行了索引扫描，并不意味着您不能做得更好](https://postgresweekly.com/link/165372/web)

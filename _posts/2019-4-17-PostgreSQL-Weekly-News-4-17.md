@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-04-17
 ---
 
 ### PostgreSQL每周新闻#301 - 2019年4月17日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/301)
 
@@ -72,7 +72,7 @@ libpqxx最近有很多更新。
 
 `JEROEN VERMEULEN`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由PERCONA提供支持
 
 自动记录慢查询

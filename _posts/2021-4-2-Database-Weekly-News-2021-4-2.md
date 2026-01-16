@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2021-4-2
 ---
 ### 数据库每周新闻#348 - 2021年4月2日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/348)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/n1aluw2kjbks6amohwjz.jpg)
 

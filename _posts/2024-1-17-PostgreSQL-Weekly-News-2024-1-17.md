@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-1-17
 ---
 ### PostgreSQL每周新闻#538 - 2024年1月17日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/538)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/efoegvdhvcam6sdo1f6h.jpg)
 ## [在 500 行 SQL 中实现 GPT](https://postgresweekly.com/link/150059/web)

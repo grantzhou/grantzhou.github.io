@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-3-16
 ---
 ### PostgreSQL每周新闻#446 - 2022年3月16日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/446)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/yjh9mvmvvednofiddgzd.jpg)
 ## [使用 150 行 SQL 进行 Postgres 审计](https://postgresweekly.com/link/120926/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2020-4-17
 ---
 ### 数据库每周新闻#300 - 2020年4月17日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/300)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/azzoqilugfb8xlta9h2x.jpg)
 

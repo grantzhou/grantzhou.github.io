@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-9-6
 ---
 ### PostgreSQL每周新闻#520 - 2023年9月6日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/520)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/yz5fhludoc40exl2p9qu.jpg)
 ## [pgvector 0.5 发布：亮点](https://postgresweekly.com/link/144386/web)

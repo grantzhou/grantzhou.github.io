@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-8-16
 ---
 ### PostgreSQL每周新闻#519 - 2023年8月16日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/519)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/bkyfe6xg3lvivijiskcj.jpg)
 ## [Postgres 何时变得很酷？](https://postgresweekly.com/link/143922/web)

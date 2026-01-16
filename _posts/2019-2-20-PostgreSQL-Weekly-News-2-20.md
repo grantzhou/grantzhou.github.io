@@ -8,7 +8,7 @@ title: PostgreSQL 每周新闻 2019-02-20
 
 
 ### PostgreSQL每周新闻#293 - 2019年2月20日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 
 备注：[英文原文地址](https://postgresweekly.com/issues/293)
@@ -74,7 +74,7 @@ DigitalOcean加入其他提供商之列，如AWS，Google，MS Azure和Heroku，
 
 `AMAZON WEB SERVICES`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由Citus Data提供支持
 
 ## 如何检查表缓存的有效性

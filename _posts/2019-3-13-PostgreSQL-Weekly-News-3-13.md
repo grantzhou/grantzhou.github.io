@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-03-13
 ---
 
 ### PostgreSQL每周新闻#296 - 2019年3月13日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)  
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)  
 
 
 备注：[英文原文地址](https://postgresweekly.com/issues/296)  
@@ -65,7 +65,7 @@ PGX的开源专家提供解决数据库问题，加速现有应用程序，重�
 
 `POSTGIS DEVELOPERS`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由strongdm提供支持
 
 用于将数字四舍五入十分位、百分位的SQL技巧

@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-1-23
 ---
 
 ### PostgreSQL每周新闻#289 - 2019年1月23日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/289)
 
@@ -64,7 +64,7 @@ Postico是一种商业产品（试用版），但外观优雅，像Mac一样。
 
 `EGGER APPS`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
  
  使用排它约束可防止重期范围重叠 -Brendan Carney
  

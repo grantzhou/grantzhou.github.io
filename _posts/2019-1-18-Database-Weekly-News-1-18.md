@@ -7,7 +7,7 @@ title: 数据库每周新闻 2019-1-18
 ---
 
 ### 数据库每周新闻 #237 - 2019年1月18日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 
 备注：[英文原文地址](https://dbweekly.com/issues/237)
 

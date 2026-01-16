@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2019-10-25
 ---
 ### 数据库每周新闻#277 - 2019年10月25日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/277)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1562325808/g6ul9s0x1bymmu2rujws.jpg)
 

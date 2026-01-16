@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-6-8
 ---
 ### PostgreSQL每周新闻#458 - 2022年6月8日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/458)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/oso8z5btoxxse7reapue.jpg)
 ## [2022 年 PostgreSQL 状态调查现已开](https://postgresweekly.com/link/124439/web)

@@ -8,7 +8,7 @@ title: PostgreSQL 每周新闻 2019-8-21
 
 ### PostgreSQL每周新闻#319 - 2019年8月21日
 
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/319)
 

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-4-10
 ---
 ### PostgreSQL每周新闻#550 - 2024年4月10日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/550)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/gflqbnsthccpjlwtvemc.jpg)
 ## [超棒的 Postgres：200 多个库、工具和资源的精选列表](https://postgresweekly.com/link/153613/web)

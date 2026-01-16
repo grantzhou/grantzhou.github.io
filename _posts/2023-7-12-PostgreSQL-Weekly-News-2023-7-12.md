@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-7-12
 ---
 ### PostgreSQL每周新闻#514 - 2023年7月12日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/514)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_600,h_160/e_make_transparent/co_white,e_outline:12/rrcbnnamutiazyfczv81.png)
 ## [Microsoft 对类似 PostgreSQL 的分布式数据库进行基准测试](https://postgresweekly.com/link/142340/web)

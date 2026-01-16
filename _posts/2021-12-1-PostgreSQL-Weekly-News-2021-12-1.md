@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-12-1
 ---
 ### PostgreSQL每周新闻#433 - 2021年12月1日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/433)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1638361677/i3mxfjhntwefb0zz0ljz.png)
 ## [PostgREST 9.0：从 Postgres 数据库提供 RESTful API](https://postgresweekly.com/link/116879/web)

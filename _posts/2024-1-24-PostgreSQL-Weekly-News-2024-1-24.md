@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-1-24
 ---
 ### PostgreSQL每周新闻#539 - 2024年1月24日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/539)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1920,e_sharpen:60,q_auto/e9xvgoqdrvbiofjz2n8v.jpg)
 ## [一个 PID 锁定全部：查找锁定源](https://postgresweekly.com/link/150356/web)

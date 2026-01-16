@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-5-1
 ---
 ### PostgreSQL每周新闻#598 - 2025年4月3日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/598)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/gm0omqymldqlicv5hgup.jpg)
 ## [PGlite 0.3：WASM 上的 Postgres，现已基于 Postgres 17](https://postgresweekly.com/link/168701/web)

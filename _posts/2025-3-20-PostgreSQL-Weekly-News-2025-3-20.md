@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-3-20
 ---
 ### PostgreSQL每周新闻#591 - 2025年3月13日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/593)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/vs3ewh0adrzndfkmksby.jpg)
 ## [您可以让 Postgres 扩展](https://postgresweekly.com/link/167071/web)

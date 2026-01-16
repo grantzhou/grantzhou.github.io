@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-12-18
 ---
 ### PostgreSQL每周新闻#582 - 2024年12月18日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/582)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/vmbtuivmasdxjezkw6xn.jpg)
 ## [我最喜欢的一些东西 - Postgres 查询](https://postgresweekly.com/link/163587/web)

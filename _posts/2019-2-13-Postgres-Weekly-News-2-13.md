@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-02-13
 ---
 
 ### PostgreSQL每周新闻#292 - 2019年2月13日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/292)
 
@@ -62,7 +62,7 @@ pgDash提供时间序列仪表板，诊断，分析等，以帮助您最大限�
 ## [快速推进和迁移：我们如何在Postgres中自动迁移](https://benchling.engineering/move-fast-and-migrate-things-how-we-automated-migrations-in-postgres-d60aba0fc3d4)
 Benchling是一个生命科学数据管理平台，这意味着他们需要处理大量数据，就像上周的Braintree / PayPal一样，这篇文章可以很好地了解他们如何进行迁移。
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 如何在psql中查看查询所用的时间
 来自 `Peter Cooper`
 

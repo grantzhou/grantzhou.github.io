@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-4-14
 ---
 ### PostgreSQL每周新闻#401 - 2021年4月14日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/401)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/kojhnf0zdptcuyxnhkl2.jpg)
 ## [清理Postgres中的大量BLOB](https://postgresweekly.com/link/106213/web)

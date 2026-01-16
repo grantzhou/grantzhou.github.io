@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 2021 年最佳 Postgres 周刊
 ---
 ### 2021 年最佳 Postgres 周刊
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/pslzvoamdiae0nmrbgow.jpg)
 ## [2021 年 Postgres GUI 综述](https://postgresweekly.com/link/117872/web)
 这篇文章最初来自 2020 年，但在 2021 年进行了更新，涵盖了一些常见的数据库客户端，如 pgAdmin、Navicat、DBeaver、HeidiSQL、Datagrip 等。 看看我们在 2022 年是否有新来者会很有趣。

@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-6-12
 ---
 
 ### PostgreSQL每周新闻#309 - 2019年6月12日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/309)
 

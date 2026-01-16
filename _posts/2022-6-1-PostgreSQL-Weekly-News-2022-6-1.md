@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-6-1
 ---
 ### PostgreSQL每周新闻#457 - 2022年6月1日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/457)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/zusgmvmazvtcrp1lw9bx.jpg)
 ## [Neon：AWS Aurora Postgres 的开源无服务器替代方案？](https://postgresweekly.com/link/124164/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-7-15
 ---
 ### PostgreSQL每周新闻#364 - 2020年7月15日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/364)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1594744377/p6foxmu22977srw8jh18.png)
 ## [PGX：使用Rust构建Postgres插件](https://postgresweekly.com/link/91774/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-6-15
 ---
 ### PostgreSQL每周新闻#459 - 2022年6月15日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/459)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/zzhrk1f0an8shljgb29z.jpg)
 ## [模糊文本搜索：从不太模糊到最模糊](https://postgresweekly.com/link/124789/web)

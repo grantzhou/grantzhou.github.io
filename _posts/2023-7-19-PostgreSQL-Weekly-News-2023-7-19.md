@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-7-19
 ---
 ### PostgreSQL每周新闻#515 - 2023年7月19日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/515)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/pdiatnvihasxcycz1zme.jpg)
 ## [Citus 12：Postgres 基于Schema的分片](https://postgresweekly.com/link/142723/web)

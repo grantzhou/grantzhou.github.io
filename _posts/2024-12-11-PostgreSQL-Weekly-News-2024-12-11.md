@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-12-11
 ---
 ### PostgreSQL每周新闻#581 - 2024年12月11日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/580)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/qetnbvmsxtbxsosfq2zc.jpg)
 ## [Electric：Postgres 同步引擎，现处于测试阶段](https://postgresweekly.com/link/163305/web)

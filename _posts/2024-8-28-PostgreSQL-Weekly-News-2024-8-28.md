@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-8-28
 ---
 ### PostgreSQL每周新闻#567 - 2024年8月28日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/567)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/mwnjazjyigfrdpwdwtcj.jpg)
 ## [凯文·贝肯的六度空间 - Postgres 风格](https://postgresweekly.com/link/158955/web)

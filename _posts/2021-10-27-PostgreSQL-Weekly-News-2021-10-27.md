@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-10-27
 ---
 ### PostgreSQL每周新闻#428 - 2021年10月27日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/428)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/qof2ehbmhz94mugqyg4o.jpg)
 ## [字符串、数组、递归和解析 JSON：探索 PL/pgSQL](https://postgresweekly.com/link/115383/web)

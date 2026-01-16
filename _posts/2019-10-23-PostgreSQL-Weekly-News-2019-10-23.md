@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2019-10-23
 ---
 ### PostgreSQL每周新闻#328 - 2019年10月23日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/328)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/jiagvjutiltfsgdchttw.jpg)
 ## [如何使用pg_receivewal用以避免发生事务缺失](https://postgresweekly.com/link/78798/web)

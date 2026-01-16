@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-8-2
 ---
 ### PostgreSQL每周新闻#517 - 2023年8月2日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/517)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/xxvuotgyql1uiv57oukr.jpg)
 ## [PostgreSQL 2023调查现已开放](https://postgresweekly.com/link/143311/web)

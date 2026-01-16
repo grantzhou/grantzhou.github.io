@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-6-17
 ---
 ### PostgreSQL每周新闻#360 - 2020年6月17日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/360)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1592353852/fcvz8isytnc7mmlufysc.png)
 ## [Jepsen在Postgres 12.3中发现错误](https://postgresweekly.com/link/90206/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-11-3
 ---
 ### PostgreSQL每周新闻#429 - 2021年11月3日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/429)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,e_tint:60:cyan/gcv61wtf7ujmndjahtlw.jpg)
 ## [再见微软 SQL Server，你好 Babelfish](https://postgresweekly.com/link/115657/web)

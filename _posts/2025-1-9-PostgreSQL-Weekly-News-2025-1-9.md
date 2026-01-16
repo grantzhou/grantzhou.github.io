@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-1-9
 ---
 ### PostgreSQL每周新闻#583 - 2025年1月9日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/583)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/jeyrzliod836uatrt6rp.jpg)
 ## [PIG:Postgres的新包管理器](https://postgresweekly.com/link/164055/web)

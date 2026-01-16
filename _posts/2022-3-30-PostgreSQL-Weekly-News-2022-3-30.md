@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-3-30
 ---
 ### PostgreSQL每周新闻#448 - 2022年3月30日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/448)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/xbcdz4ircyusbijt34qg.jpg)
 ## [MERGE 来到 Postgres 15](https://postgresweekly.com/link/121585/web)

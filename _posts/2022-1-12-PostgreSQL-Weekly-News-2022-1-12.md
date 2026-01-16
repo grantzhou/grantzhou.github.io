@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-1-12
 ---
 ### PostgreSQL每周新闻#437 - 2022年1月12日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/437)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/elibtixppcl7l8ggwxiv.jpg)
 ## [在postgres中获取查询'进度条'](https://postgresweekly.com/link/118259/web)

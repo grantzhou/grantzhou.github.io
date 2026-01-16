@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2020-5-29
 ---
 ### 数据库每周新闻#306 - 2020年5月29日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/306)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1590752807/ikvqbvqd8wnuxnx98knf.jpg)
 

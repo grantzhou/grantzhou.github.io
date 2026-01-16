@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-10-23
 ---
 ### PostgreSQL每周新闻#621 - 2025年10月23日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/621)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/zktpbzsf69swswdqb4nc.jpg)
 ## [你的资料库是读重还是写重？](https://postgresweekly.com/link/175714/web)

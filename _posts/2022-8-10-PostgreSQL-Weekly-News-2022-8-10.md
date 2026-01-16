@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-8-10
 ---
 ### PostgreSQL每周新闻#467 - 2022年8月10日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/467)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/wvawsuprmt1lykgqwejp.jpg)
 ## [PPagila 3.0：Postgres 的示例数据库](https://postgresweekly.com/link/127358/web)

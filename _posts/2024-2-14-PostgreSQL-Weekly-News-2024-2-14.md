@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-2-14
 ---
 ### PostgreSQL每周新闻#542 - 2024年2月14日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/542)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/tg37ghcxv1nev4za1jd3.jpg)
 ## [Postgres 16 查询规划器/优化器的新增功能](https://postgresweekly.com/link/151246/web)

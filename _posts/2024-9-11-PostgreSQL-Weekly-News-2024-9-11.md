@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-9-11
 ---
 ### PostgreSQL每周新闻#569 - 2024年9月11日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/569)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/xa03n16p8xueitspvzyv.jpg)
 ## [Tetris-SQL：使用 SQL 的图灵完备性构建俄罗斯方块](https://postgresweekly.com/link/159621/web)

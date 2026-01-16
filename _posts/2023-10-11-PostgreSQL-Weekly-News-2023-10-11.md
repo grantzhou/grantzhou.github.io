@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-10-11
 ---
 ### PostgreSQL每周新闻#525 - 2023年10月11日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/525)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/uf1ztbgy2eeltwyhynu0.jpg)
 ## [Postgres：下一代？](https://postgresweekly.com/link/146216/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-5-11
 ---
 ### PostgreSQL每周新闻#454 - 2022年5月11日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/454)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/dh2tn8ozojeohirqxl7g.jpg)
 ## [数据湖中的 Parquet 和 Postgres](https://postgresweekly.com/link/123324/web)

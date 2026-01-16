@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2020-6-12
 ---
 ### 数据库每周新闻#308 - 2020年6月12日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/308)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1591962740/b9iageezywazh2pbym6d.png)
 

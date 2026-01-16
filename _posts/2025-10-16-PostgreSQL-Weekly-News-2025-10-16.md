@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-10-16
 ---
 ### PostgreSQL每周新闻#620 - 2025年10月16日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/620)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/e692qah5p8cek2vviye8.jpg)
 ## [对 Postgres 17 与 18 进行基准测试](https://postgresweekly.com/link/175714/web)

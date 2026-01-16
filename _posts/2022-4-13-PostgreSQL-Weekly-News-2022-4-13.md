@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-4-13
 ---
 ### PostgreSQL每周新闻#450 - 2022年4月13日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/450)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/de66hz94o0bqtxkhpzjt.jpg)
 ## [Postgres 14 中的多范围](https://postgresweekly.com/link/122159/web)

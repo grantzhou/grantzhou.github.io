@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-7-28
 ---
 ### PostgreSQL每周新闻#416 - 2021年7月28日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/416)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/nexjx5akxihjgsyzls6t.jpg)
 ## [使用继承执行ETL](https://postgresweekly.com/link/111587/web)

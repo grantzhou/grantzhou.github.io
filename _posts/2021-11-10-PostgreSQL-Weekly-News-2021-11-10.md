@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-11-10
 ---
 ### PostgreSQL每周新闻#430 - 2021年11月10日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/430)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/riadqaypp0rjgulr9lwi.jpg)
 ## [许多鲜为人知的 Postgres 功能](https://postgresweekly.com/link/116031/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-6-3
 ---
 ### PostgreSQL每周新闻#358 - 2020年6月3日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/358)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/zpny9hxugkgvphan1tns.jpg)
 ## [用递归SQL和SVG绘制Sierpiński三角形](https://postgresweekly.com/link/89426/web)

@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-03-06
 ---
 
 ### PostgreSQL每周新闻#295 - 2019年3月6日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/295)
 
@@ -68,7 +68,7 @@ TimescaleDB是Postgres的扩展，可以帮助处理时间序列数据。在这�
 
 `HUBERT DEPESZ LUBACZEWSKI`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由Dotadog提供支持
 
 ## 如何获得比默认设置更好的Postgres配置

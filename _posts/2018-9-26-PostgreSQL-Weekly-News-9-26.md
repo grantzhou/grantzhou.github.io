@@ -7,8 +7,8 @@ title: PostgreSQL 每周新闻 2018-09-26
 ---
 
 ### PostgreSQL每周新闻 #275 - 2018年9月26日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
-![_config.yml]({{ site.baseurl }}/images/wn0928.jpg)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/wn0928.jpg)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/275)
 
@@ -25,7 +25,7 @@ title: PostgreSQL 每周新闻 2018-09-26
 `POSTGRESQL全球开发组`
 
 ## [Postgres-XL：可水平扩展的PostgreSQL](https://postgresweekly.com/link/53271/web)
-![XL IMG]({{ site.baseurl }}/images/xl.jpg)
+![XL IMG]({{ site.baseurl }}/assets/img/xl.jpg)
 
 Postgres-XL是一个大规模并行处理数据库 - 与PostgreSQL密切兼容，可以横向扩展。 
 它在同一平台上支持Business Intelligence(商业智能)工作负载和大容量事务性写入和读取工作负载。

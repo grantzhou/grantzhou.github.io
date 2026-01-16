@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-2-8
 ---
 ### PostgreSQL每周新闻#492 - 2023年2月8日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/492)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_300,h_160/e_make_transparent/co_white,e_outline:7/rrkstxca0vg7e1eww6yw.jpg)
 ## [什么性能更好：FILTER 还是 CASE？](https://postgresweekly.com/link/135028/web)

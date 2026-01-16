@@ -79,7 +79,7 @@ SELECT SUM(amnt)
 
 行单元(rows unit)正如您所期望的那样：它将当前行解释为引用当前行，并将前面和后面的<distance>解释为行数。 对于行单元，前一个示例定义了一个包含最多两行的帧：一行在当前行之前，另一行在当前行本身。 如果当前行之前没有行，例如 因为当前行是第一行，所以框架只覆盖当前行本身。
   
-![_config.yml]({{ site.baseurl }}/images/pgn1.png)
+![_config.yml]({{ site.baseurl }}/assets/img/pgn1.png)
 
 下一个帧单位,**range**,根本不计算行数。 相反，它使用排序键的值（按表达式排序）并添加或减去指定的<distance>。 排序键的值落入指定范围的所有行都将被带入帧中。
 
@@ -87,7 +87,7 @@ SELECT SUM(amnt)
 
 下图使用单位范围而不是行。 由于当前行的值为2，因此框架将覆盖值为1到2（包括）的所有行。 帧从第一行开始，因为它的值是1，因此落入值范围。 帧的结尾甚至超出当前行，因为下一行仍然落在值范围内。
 
-![_config.yml]({{ site.baseurl }}/images/pgn2.png)
+![_config.yml]({{ site.baseurl }}/assets/img/pgn2.png)
 
 这是一个适用于MySQL 8.0的示例，但不适用于版本11之前的PostgreSQL。虽然PostgreSQL之前支持范围帧，但您无法使用如上所示的数字距离。 在PostgreSQL 11之前只能使用无界和当前行。顺便说一句，SQL Server和SQLite仍然如此。 PostgreSQL 11支持具有所有边界类型的所有帧单元。
 
@@ -97,16 +97,16 @@ SELECT SUM(amnt)
 PostgreSQL 11完全支持最后一个帧 - **groups**。组将结果或分区的每一行分配到一个组中，就像group by子句一样。 然后，<distance>指的是当前行之前和之后要覆盖的组的数量，即不同的排序键值的数量。
 
 下图显示了组帧如何在当前值（前一个）和当前值本身（当前行）之前覆盖一个不同的值。 值之间的数字差异无关紧要，行数也不重要。 组仅仅是关于不同值的数量。
-![_config.yml]({{ site.baseurl }}/images/pgn3.png)
+![_config.yml]({{ site.baseurl }}/assets/img/pgn3.png)
 
 PostgreSQL 11是第一个支持组帧的主要SQL数据库。
 
-![_config.yml]({{ site.baseurl }}/images/pgn4.png)
-![_config.yml]({{ site.baseurl }}/images/pgn5.png)
-![_config.yml]({{ site.baseurl }}/images/pgn6.png)
-![_config.yml]({{ site.baseurl }}/images/pgn7.png)
-![_config.yml]({{ site.baseurl }}/images/pgn8.png)
-![_config.yml]({{ site.baseurl }}/images/pgn9.png)
+![_config.yml]({{ site.baseurl }}/assets/img/pgn4.png)
+![_config.yml]({{ site.baseurl }}/assets/img/pgn5.png)
+![_config.yml]({{ site.baseurl }}/assets/img/pgn6.png)
+![_config.yml]({{ site.baseurl }}/assets/img/pgn7.png)
+![_config.yml]({{ site.baseurl }}/assets/img/pgn8.png)
+![_config.yml]({{ site.baseurl }}/assets/img/pgn9.png)
 
 
 ### <a name="framexclusion"> 帧排除(frame exclusion) </a>

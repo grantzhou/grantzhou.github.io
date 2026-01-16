@@ -8,7 +8,7 @@ title: PostgreSQL 每周新闻 2018-12-05
 
 
 ### PostgreSQL每周新闻#284 - 2018年12月05日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/284)
 

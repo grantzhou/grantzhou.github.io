@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-10-21
 ---
 ### PostgreSQL每周新闻#378 - 2020年10月21日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/378)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1603287031/wmzplionqwayyadqvdq1.jpg)
 ## [中型文本对性能的惊人影响](https://postgresweekly.com/link/97182/web)

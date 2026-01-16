@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-11-25
 ---
 ### PostgreSQL每周新闻#383 - 2020年11月25日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/383)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1606303422/gfqywyd8zsi60mxgkw50.jpg)
 ## [Postgres在基于Arm的M1 MacBook Pro上的表现如何？](https://postgresweekly.com/link/99059/web)

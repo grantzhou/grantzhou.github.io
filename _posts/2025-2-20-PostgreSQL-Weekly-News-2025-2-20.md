@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-2-20
 ---
 ### PostgreSQL每周新闻#589 - 2025年2月20日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/589)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/umlwap0o1lqpb2vcpgzp.jpg)
 ## [怪物硬件时代的 Postgres](https://postgresweekly.com/link/165885/web)

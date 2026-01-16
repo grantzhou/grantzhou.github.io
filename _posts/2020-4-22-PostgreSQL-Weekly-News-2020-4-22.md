@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-4-22
 ---
 ### PostgreSQL每周新闻#352 - 2020年4月22日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/352)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/qejzzsreeflhuel6ipcq.jpg)
 ## [Postgres Explain Visualizer 2：显示执行计划的Vue.js组件](https://postgresweekly.com/link/87076/web)

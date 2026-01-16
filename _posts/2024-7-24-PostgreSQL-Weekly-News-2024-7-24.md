@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-7-24
 ---
 ### PostgreSQL每周新闻#564 - 2024年7月24日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/564)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/a9erkdqglxbpiucfetlk.jpg)
 ## [psql 的魔术技巧：设置、预设、回显和已保存的查询](https://postgresweekly.com/link/157910/web)

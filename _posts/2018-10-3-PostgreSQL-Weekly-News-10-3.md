@@ -7,8 +7,8 @@ title: PostgreSQL 每周新闻 2018-10-03
 ---
 
 ### PostgreSQL每周新闻 #276 - 2018年10月03日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
-![_config.yml]({{ site.baseurl }}/images/wn1003.jpg)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/wn1003.jpg)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/276)
 

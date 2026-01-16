@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-04-24
 ---
 
 ### PostgreSQL每周新闻#302 - 2019年4月24日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/302)
 
@@ -82,7 +82,7 @@ strongDM对你所接触的很多东西都有效。认真的讲，任何数据库
 
 `BLAKE MIZERANY AND CONTRIBUTORS`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由HASURA提供支持
 
 使用FILTER将表的实体/值转换为实体行

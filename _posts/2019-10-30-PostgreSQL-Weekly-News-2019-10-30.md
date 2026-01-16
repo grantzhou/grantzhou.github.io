@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2019-10-30
 ---
 ### PostgreSQL每周新闻#329 - 2019年10月30日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/329)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/bog6obt6hjzfyor3p6fz.jpg)
 ## [使用逻辑复制执行主版本升级](https://postgresweekly.com/link/79143/web)

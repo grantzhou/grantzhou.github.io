@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-3-10
 ---
 ### PostgreSQL每周新闻#396 - 2021年3月10日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/396)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/rhxyooxeqhxygitungyv.jpg)
 ## [Citus 10发布：Postgres 12和13的分布式“超级大国”吗？](https://postgresweekly.com/link/104328/web)

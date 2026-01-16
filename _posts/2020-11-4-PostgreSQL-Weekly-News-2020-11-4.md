@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-11-4
 ---
 ### PostgreSQL每周新闻#380 - 2020年11月4日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/380)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1604493688/jdyvodk8nuuiyldbsyym.jpg)
 ## [基于PL/R的Postgres选举夜预测模型](https://postgresweekly.com/link/97955/web)

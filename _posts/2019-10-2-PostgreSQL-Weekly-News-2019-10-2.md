@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2019-10-2
 ---
 ### PostgreSQL每周新闻#325 - 2019年10月2日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/325)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1570014828/zx5lirn5agvejwtdfbwc.png)
 ## [Postgres 12 RC 1发布，是最终版本么？](https://postgresweekly.com/link/77797/web)

@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2018-11-07
 ---
 
 ### PostgreSQL每周新闻 #281 - 2018年11月07日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 ![_config.yml](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/zipij3kx5izdatpiprmc.jpg)
 
 

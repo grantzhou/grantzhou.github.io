@@ -12,7 +12,7 @@ OpenSCG是AWS咨询合作伙伴和PostgreSQL的领先专家，帮助客户在内
 
 在之前的文章中，我们研究了成功进行数据库迁移的整体方法，以及如何选择要迁移的第一个数据库。在这篇文章中，让我们看一些迁移挑战和克服它们的技巧。
 
-![_config.yml]({{ site.baseurl }}/images/Oracle2PG.jpg)
+![_config.yml]({{ site.baseurl }}/assets/img/Oracle2PG.jpg)
 
 当组织希望从Oracle迁移到开源PostgreSQL数据库时，他们通常会关注高级功能，高性能，坚如磐石的数据完整性，灵活的开源许可以及包括AWS在内的公共云提供商的轻松可用性。 但是迁移的道路并不总是顺利，知道如何避免各种坑可以帮助确保您的迁移成功。
 

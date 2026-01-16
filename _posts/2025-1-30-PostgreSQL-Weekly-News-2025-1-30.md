@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-1-30
 ---
 ### PostgreSQL每周新闻#586 - 2025年1月30日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/586)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/utglhkoflyljfsouu4xb.jpg)
 ## [停机时间的 Aurora Postgres 重大升级](https://postgresweekly.com/link/165033/web)

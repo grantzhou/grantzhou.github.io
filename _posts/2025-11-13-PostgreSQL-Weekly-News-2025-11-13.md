@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-11-13
 ---
 ### PostgreSQL每周新闻#624 - 2025年11月13日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/624)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/w6r3bhlr0kdnrx2oy7yy.jpg)
 ## [VectorChord 1.0：Postgres 快速向量搜寻扩充](https://postgresweekly.com/link/176974/web)

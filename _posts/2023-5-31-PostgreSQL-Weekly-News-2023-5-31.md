@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-5-31
 ---
 ### PostgreSQL每周新闻#508 - 2023年5月31日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/508)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,w_524,h_127/e_make_transparent/co_white,e_outline:9/bmhxbsirg1zkckgnwcor.png)
 ## [从 Postgres 生成 SVG 图像](https://postgresweekly.com/link/140317/web)

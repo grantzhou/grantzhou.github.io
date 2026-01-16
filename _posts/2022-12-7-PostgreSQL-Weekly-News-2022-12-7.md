@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-12-7
 ---
 ### PostgreSQL每周新闻#485 - 2022年12月7日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/484)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/qoqb9smpem7n1pk6fqzc.jpg)
 ## [Amazon's Trusted Language Extensions for Postgres](https://postgresweekly.com/link/132635/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-9-18
 ---
 ### PostgreSQL每周新闻#570 - 2024年9月18日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/570)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/gmgpd26qifvuz9s4kgro.jpg)
 ## [优化数据库以进行分析](https://postgresweekly.com/link/159925/web)

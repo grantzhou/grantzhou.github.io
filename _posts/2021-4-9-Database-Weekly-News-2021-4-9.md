@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2021-4-9
 ---
 ### 数据库每周新闻#349 - 2021年4月9日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/349)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/c4pk5raiq39z113gdgmz.jpg)
 

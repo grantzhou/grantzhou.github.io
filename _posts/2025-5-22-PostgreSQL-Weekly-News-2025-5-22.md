@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-5-22
 ---
 ### PostgreSQL每周新闻#601 - 2025年5月22日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/601)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/jytbd3eqzdt5ksgtmibp.jpg)
 ## [微软在 VS Code 中推出 Postgres IDE](https://postgresweekly.com/link/169528/web)

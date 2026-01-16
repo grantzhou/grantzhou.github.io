@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-11-17
 ---
 ### PostgreSQL每周新闻#431 - 2021年11月17日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/431)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/qvzaxw6i8o8xzbkypuym.jpg)
 ## [使用 generate_series() 生成更真实的样本时间序列数据](https://postgresweekly.com/link/116300/web)

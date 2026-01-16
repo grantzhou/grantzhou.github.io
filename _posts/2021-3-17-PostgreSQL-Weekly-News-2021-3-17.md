@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-3-17
 ---
 ### PostgreSQL每周新闻#397 - 2021年3月17日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/397)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/xkr5yf16lq768c9nf1nq.jpg)
 ## [用PostGIS和pgRouting解决旅行商问题](https://postgresweekly.com/link/104731/web)

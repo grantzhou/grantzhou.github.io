@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-3-6
 ---
 ### PostgreSQL每周新闻#545 - 2024年3月6日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/545)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/tjhmevzmzmmo1ay0epcc.jpg)
 ## [使用Postgres扩展构建Q＆A机器人](https://postgresweekly.com/link/152172/web)

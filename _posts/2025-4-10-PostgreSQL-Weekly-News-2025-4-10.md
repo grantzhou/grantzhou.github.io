@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-4-3
 ---
 ### PostgreSQL每周新闻#595 - 2025年4月3日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/595)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/quqznyttxi5khg6tyhgf.jpg)
 ## [🕒 深入了解 Postgres 中的时间](https://postgresweekly.com/link/167920/web)

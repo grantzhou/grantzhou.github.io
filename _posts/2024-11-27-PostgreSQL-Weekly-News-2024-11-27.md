@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-11-27
 ---
 ### PostgreSQL每周新闻#579 - 2024年11月27日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/579)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/zwhhglr0pcibnek7umhs.jpg)
 ## [pgspot：发现 Postgres 扩展脚本中的漏洞](https://postgresweekly.com/link/162748/web)

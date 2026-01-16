@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-5-3
 ---
 ### PostgreSQL每周新闻#504 - 2023年5月3日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/504)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,w_524,h_127/e_make_transparent/co_white,e_outline:7/bmhxbsirg1zkckgnwcor.png)
 ## [“我们最讨厌的 Postgres 部分”](https://postgresweekly.com/link/139047/web)

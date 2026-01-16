@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-10-4
 ---
 ### PostgreSQL每周新闻#524 - 2023年10月4日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/524)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/picufmm614atovsqr22r.jpg)
 ## [pgroll：零停机、可逆架构迁移](https://postgresweekly.com/link/145984/web)

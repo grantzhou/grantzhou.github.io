@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-9-27
 ---
 ### PostgreSQL每周新闻#523 - 2023年9月27日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/523)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/no4bngifotliu86h9gig.jpg)
 ## [选择 Postgres 的队列技术](https://postgresweekly.com/link/145500/web)

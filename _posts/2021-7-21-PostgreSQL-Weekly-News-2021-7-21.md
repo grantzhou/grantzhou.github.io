@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2021-7-21
 ---
 ### PostgreSQL每周新闻#415 - 2021年7月21日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/415)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/lrftbpdom7zs8imcuii3.jpg)
 ## [切切出中间层：直接从 Postgres 生成 JSON](https://postgresweekly.com/link/111292/web)

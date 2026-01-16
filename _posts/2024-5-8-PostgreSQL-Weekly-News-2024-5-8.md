@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-5-8
 ---
 ### PostgreSQL每周新闻#554 - 2024年5月8日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/554)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/x8gpgirt7ztu4v89idmy.jpg)
 ## [在 PostgreSQL 上进行黑客攻击确实很难](https://postgresweekly.com/link/154778/web)

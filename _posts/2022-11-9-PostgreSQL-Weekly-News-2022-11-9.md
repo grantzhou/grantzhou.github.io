@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-11-9
 ---
 ### PostgreSQL每周新闻#480 - 2022年11月9日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/480)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_500,h_100/e_make_transparent/co_white,e_outline:7/xh5y6qe2tcrjx1vxyfer.png)
 ## [Postgres 15，十亿次交易](https://postgresweekly.com/link/131321/web)

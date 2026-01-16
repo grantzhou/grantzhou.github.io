@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-5-15
 ---
 ### PostgreSQL每周新闻#555 - 2024年5月15日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/555)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/srgba651kvcwksgtdc4o.jpg)
 ## [Postgres 17 发行说明草案](https://postgresweekly.com/link/155107/web)

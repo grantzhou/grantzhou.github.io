@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-3-13
 ---
 ### PostgreSQL每周新闻#546 - 2024年3月13日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/546)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/tmrvfpkzogaohqrwchxc.jpg)
 ## [pgvector使用索引加速查询](https://postgresweekly.com/link/152421/web)

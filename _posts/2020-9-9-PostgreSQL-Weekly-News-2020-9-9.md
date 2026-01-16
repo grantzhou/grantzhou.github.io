@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-9-9
 ---
 ### PostgreSQL每周新闻#372 - 2020年9月9日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/372)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/y7yg2yhwsqhaaabsamhg.jpg)
 ## [看看Postgres中的B树索引重复数据删除13](https://postgresweekly.com/link/94762/web)

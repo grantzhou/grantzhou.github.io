@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2019-10-9
 ---
 ### PostgreSQL每周新闻#326 - 2019年10月9日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/326)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1570535120/f7ksfjt0klgx0oyoom09.jpg)
 ## [PostgreSQL 12发布](https://postgresweekly.com/link/78166/web)

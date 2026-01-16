@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-5-13
 ---
 ### PostgreSQL每周新闻#355 - 2020年5月13日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/355)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1589300029/pryzuzd84hdzubadddkj.jpg)
 ## [为什么你不应该手动修改Postgres的数据目录](https://postgresweekly.com/link/88137/web)

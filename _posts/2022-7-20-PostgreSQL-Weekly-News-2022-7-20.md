@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-7-20
 ---
 ### PostgreSQL每周新闻#464 - 2022年7月20日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/464)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1658323472/dzjcs83w9wc1pcds23iz.jpg)
 ## [PostgreSQL 14 Internals: The Book](https://postgresweekly.com/link/126389/web)

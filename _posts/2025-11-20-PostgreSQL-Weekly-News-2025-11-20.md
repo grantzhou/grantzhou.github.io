@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-11-20
 ---
 ### PostgreSQL每周新闻#625 - 2025年11月20日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/625)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ddacvvudkcpt1aousimk.jpg)
 ## [RegreSQL：Postgres 查询的回归测试](https://postgresweekly.com/link/177305/web)

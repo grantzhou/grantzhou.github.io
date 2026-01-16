@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-02-27
 ---
 
 ### PostgreSQL每周新闻#294 - 2019年2月27日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)  
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)  
 备注：[英文原文地址](https://postgresweekly.com/issues/294)
 
 ![pg_img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/bmmyebm9gbi5slivgwj8.jpg)
@@ -73,7 +73,7 @@ Postgres最近修复了使用fsync的长期问题。这篇文章解释了问题�
 
 `PAUL RAMSEY`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由strongDM提供支持
 
 ## 看看你的表（和索引！）占用了多少空间

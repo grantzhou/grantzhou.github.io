@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-7-29
 ---
 ### PostgreSQL每周新闻#366 - 2020年7月29日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/366)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1595950939/pdxtnv3dfcatkcqy8k0d.png)
 ## [什么是“填充因子”及其如何影响性能？](https://postgresweekly.com/link/92500/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2019-9-11
 ---
 ### PostgreSQL每周新闻#322 - 2019年9月11日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/322)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1568155380/jqkp0qfoibvzfmh6l31h.png)
 ## [postgres升级方法初探](https://postgresweekly.com/link/69678/web)

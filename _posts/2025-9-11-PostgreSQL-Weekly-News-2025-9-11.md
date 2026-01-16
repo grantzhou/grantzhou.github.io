@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-9-11
 ---
 ### PostgreSQL每周新闻#615 - 2025年9月11日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/615)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ppthfcm8ahmx87sfbnys.jpg)
 ## [pg_duckdb 1.0：基于 DuckDB 的 Postgres 高性能分析扩展](https://postgresweekly.com/link/174135/web)

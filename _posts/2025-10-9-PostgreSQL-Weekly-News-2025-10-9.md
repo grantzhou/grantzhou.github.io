@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-10-9
 ---
 ### PostgreSQL每周新闻#619 - 2025年10月9日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/619)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/myxf1as8sucatryemg4h.jpg)
 ## [建置和debug Postgres](https://postgresweekly.com/link/175084/web)

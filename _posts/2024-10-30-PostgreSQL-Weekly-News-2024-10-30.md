@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-10-30
 ---
 ### PostgreSQL每周新闻#574 - 2024年10月30日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/574)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/azjqecondybgqptdvink.jpg)
 ## [pgdoc.link：一种搜索 Postgres 文档的新方法](https://postgresweekly.com/link/161574/web)

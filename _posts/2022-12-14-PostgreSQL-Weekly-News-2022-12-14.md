@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2022-12-14
 ---
 ### PostgreSQL每周新闻#485 - 2022年12月14日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/485)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,w_350,h_90/e_make_transparent/co_white,e_outline:7/vpntubykyv5ujmbzw501.png)
 ## [pg_crdt：一个实验性的 CRDT 扩展](https://postgresweekly.com/link/132977/web)

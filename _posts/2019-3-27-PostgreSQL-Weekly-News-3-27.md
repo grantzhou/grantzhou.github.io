@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2019-03-27
 ---
 
 ### PostgreSQL每周新闻#298 - 2019年3月27日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/298)
 
@@ -69,7 +69,7 @@ Pivotal是一家知名的云开发公司，他们已经创建了[自己的商用
 
 `EULER TAVEIRA DE OLIVEIRA`
 
-# ![_config.yml]({{ site.baseurl }}/images/Tips-icon.png)   本周提示
+# ![_config.yml]({{ site.baseurl }}/assets/img/Tips-icon.png)   本周提示
 由strongdm提供支持
 
 使用.psqlrc改善您的psql体验

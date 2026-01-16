@@ -7,7 +7,7 @@ title: PostgreSQL 每周新闻 2018-12-19
 ---
 
 ### PostgreSQL每周新闻 #286 - 2018年12月19日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 ![_config.yml](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/duggn4rj89kddgveevkq.jpg)
 
 备注：[英文原文地址](https://postgresweekly.com/issues/286)

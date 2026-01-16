@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-6-12
 ---
 ### PostgreSQL每周新闻#602 - 2025年6月12日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/603)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/fyfw3cojzzqul41wwmku.jpg)
 ## [宣布推出 Multigres：Vitess for Postgres](https://postgresweekly.com/link/170358/web)

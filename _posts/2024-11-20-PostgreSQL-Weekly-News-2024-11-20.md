@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2024-11-20
 ---
 ### PostgreSQL每周新闻#578 - 2024年11月20日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/578)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/xgy2mwq6o3qe9bdghco8.jpg)
 ## [Postgres 17.1、16.5、15.9、14.14、13.17 和 12.21 发布](https://postgresweekly.com/link/162481/web)

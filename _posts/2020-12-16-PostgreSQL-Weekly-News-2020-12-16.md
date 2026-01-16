@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-12-16
 ---
 ### PostgreSQL每周新闻#386 - 2020年12月16日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/386)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v3uc2jcnlpm0ftnp6zie.jpg)
 ## [一个单词如何实现9倍的性能改进](https://postgresweekly.com/link/100350/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-12-20
 ---
 ### PostgreSQL每周新闻#535 - 2023年12月20日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/535)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/i8d5jxu85x1n4rwkzowr.jpg)
 ## [Postgres 中的事务隔离解释](https://postgresweekly.com/link/149202/web)

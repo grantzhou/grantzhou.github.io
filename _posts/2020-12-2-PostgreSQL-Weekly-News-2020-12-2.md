@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2020-12-2
 ---
 ### PostgreSQL每周新闻#384 - 2020年12月2日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/384)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/zbxlsu73r0be4ghuyjpc.jpg)
 ## [Amazon推出了“Babelfish”，一个sqlserver到Postgres的迁移工具](https://postgresweekly.com/link/99465/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2025-2-27
 ---
 ### PostgreSQL每周新闻#590 - 2025年2月27日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/590)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/w3pouwxokxckx0tukifx.jpg)
 ## [用 pgRouting 将 Postgres 用作图形数据库](https://postgresweekly.com/link/166212/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: PostgreSQL 每周新闻 2023-4-5
 ---
 ### PostgreSQL每周新闻#500 - 2023年4月5日
-![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/500)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/yw3wd7naizflpl0tpinh.jpg)
 ## [PL/Rust 1.0：用 Rust 编写 Postgres 函数](https://postgresweekly.com/link/137764/web)

@@ -6,7 +6,7 @@ tags: [PGWeekly]
 title: 数据库每周新闻 2020-1-10
 ---
 ### 数据库每周新闻#286 - 2020年1月10日
-![_config.yml]({{ site.baseurl }}/images/DBWeekly.png)
+![_config.yml]({{ site.baseurl }}/assets/img/DBWeekly.png)
 备注：[英文原文地址](https://dbweekly.com/issues/286)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/rkw8ickcr0oqeagfyjrd.jpg)
 

@@ -26,7 +26,7 @@ Laurenz 展示了 Postgres 的开源特性在回答有关其运作方式的问�
 
 ### 本周摘要：
 
-* 🇧🇪 [FOSDEM PGDay](https://postgresweekly.com/link/164420/web) 是即将举行的年度 [FOSDEM](https://postgresweekly.com/link/164421/web) 活动中以 Postgres 为重点的附带活动。它将于 1 月 31 日在比利时布鲁塞尔举行，[目前仍开放报名](registration is still open.)。
+* 🇧🇪 [FOSDEM PGDay](https://postgresweekly.com/link/164420/web) 是即将举行的年度 [FOSDEM](https://postgresweekly.com/link/164421/web) 活动中以 Postgres 为重点的附带活动。它将于 1 月 31 日在比利时布鲁塞尔举行，目前仍开放报名。
 
 * 🥈 奇怪的是，[DB-Engines](https://postgresweekly.com/link/164440/web) 早些时候宣布 [Postgres 是他们 2024 年度数据库管理系统](https://postgresweekly.com/link/164418/web)，但最近几个小时，这一称号被更正为 Snowflake，将 Postgres 排在第二位。（这原本是我们的主要功能，但排在第二位听起来不太一样……？😅）
 

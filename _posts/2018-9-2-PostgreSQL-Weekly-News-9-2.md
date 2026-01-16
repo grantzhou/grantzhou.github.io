@@ -25,7 +25,7 @@ title: PostgreSQL 2018-09-02 每周新闻
 
 
 ### 新闻中的PostgreSQL
-[Planet PostgreSQL](http：//planet.postgresql.org/)
+[Planet PostgreSQL](http://planet.postgresql.org/)
 本周的PostgreSQL每周新闻将由David Fetter为您带来，请在本周日下午3点（太平洋标准时间晚上9点）提交新闻和公告到 david(at)fetter(dot)org
 
 ### 应用补丁

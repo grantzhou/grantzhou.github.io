@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2020-11-11
 ---
 ### PostgreSQL每周新闻#381 - 2020年11月11日

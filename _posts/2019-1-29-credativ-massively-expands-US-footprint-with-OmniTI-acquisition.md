@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: Credativ收购OmniTI，大规模扩大了其在美国的业务范围
 ---
 [原文地址](https://omniti.com/remembers/2019/credativ-massively-expands-us-footprint.html)

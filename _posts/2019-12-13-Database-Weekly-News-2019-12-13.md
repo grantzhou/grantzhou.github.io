@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2019-12-13
 ---
 ### 数据库每周新闻#284 - 2019年12月13日

@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2019-9-6
 ---
 ### 数据库每周新闻#270 - 2019年9月6日

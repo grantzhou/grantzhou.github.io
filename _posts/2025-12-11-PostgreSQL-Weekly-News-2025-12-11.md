@@ -1,53 +1,56 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2025-12-11
 ---
 ### PostgreSQL每周新闻#628 - 2025年12月11日
 ![_config.yml]({{ site.baseurl }}/images/PostgresWeekly.png)
 备注：[英文原文地址](https://postgresweekly.com/issues/628)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/v32txavpytfc4mqacel6.jpg)
-## [EXPLAIN 執行計畫中的掃描類型詳解](https://postgresweekly.com/link/178311/web)
-使用 EXPLAIN 了解查詢的執行方式對於偵錯效能問題或最佳化 SQL 語句大有裨益，但「順序掃描」和「索引掃描」之類的術語究竟是什麼意思呢？ Elizabeth 在這裡詳細講解了幾種主要的掃描類型，並附有圖表——你肯定能從中有所收穫！
+## [EXPLAIN 执行计划中的扫描类型详解](https://postgresweekly.com/link/178311/web)
+使用 EXPLAIN 了解查询的执行方式对于侦错效能问题或最佳化 SQL 语句大有裨益，但「顺序扫描」和「索引扫描」之类的术语究竟是什么意思呢？ Elizabeth 在这里详细讲解了几种主要的扫描类型，并附有图表——你肯定能从中有所收获！
 
 `Elizabeth Christensen`
 
 
-## [(CERN) 的 TimescaleDB：海量時間序列數據，規模空前](https://postgresweekly.com/link/178310/web)
-CERN 的下一代歸檔系統選擇 TimescaleDB，以實現極高的吞吐量、7-10 倍的壓縮率以及 10-40 倍的讀取速度提升。了解 PostgreSQL + TimescaleDB 如何為 500 多個系統提供支持，並有望成為 CERN 歷史資料儲存的標準。
+## [(CERN) 的 TimescaleDB：海量时间序列数据，规模空前](https://postgresweekly.com/link/178310/web)
+CERN 的下一代归档系统选择 TimescaleDB，以实现极高的吞吐量、7-10 倍的压缩率以及 10-40 倍的读取速度提升。了解 PostgreSQL + TimescaleDB 如何为 500 多个系统提供支持，并有望成为 CERN 历史资料储存的标准。
 
 `Tiger Data `
 
 
 ## **本周摘要**
 
-* [DB Fiddle](https://postgresweekly.com/link/178312/web) 線上資料庫實驗平台剛剛新增了 Postgres 18.1 的支援。
+* [DB Fiddle](https://postgresweekly.com/link/178312/web) 线上资料库实验平台刚刚新增了 Postgres 18.1 的支援。
 
-* Paul Ramsey 對近期舉辦的 [PostGIS Day 活動進行了非常詳細的回顧](https://postgresweekly.com/link/178313/web)。
+* Paul Ramsey 对近期举办的 [PostGIS Day 活动进行了非常详细的回顾](https://postgresweekly.com/link/178313/web)。
 
-* Floor Drees 採訪了 [Postgres 貢獻者 Bryan Green](https://postgresweekly.com/link/178314/web)，了解他如何透過 Postgres 進入開源領域。
+* Floor Drees 采访了 [Postgres 贡献者 Bryan Green](https://postgresweekly.com/link/178314/web)，了解他如何透过 Postgres 进入开源领域。
 
 
-## [關於Postgres中的約束，您應該了解什麼](https://postgresweekly.com/link/178317/web)
-您可以為表格和列定義約束，以強制執行資料條件。 Gulcin將深入探討細節。
+## [关于Postgres中的约束，您应该了解什么](https://postgresweekly.com/link/178317/web)
+您可以为表格和列定义约束，以强制执行资料条件。 Gulcin将深入探讨细节。
 
 `Gulcin Yildirim Jelinek (Xata)`
 
-## [閉環：建立使用 Postgres 分支的編碼代理](https://postgresweekly.com/link/178319/web)
-Xata 的開發者建立了一個代理程式（實際上是開源的），專門用於監控資料庫以查找問題並提出修復建議。
+## [闭环：建立使用 Postgres 分支的编码代理](https://postgresweekly.com/link/178319/web)
+Xata 的开发者建立了一个代理程式（实际上是开源的），专门用于监控资料库以查找问题并提出修复建议。
 
 `Divyendu Singh (Xata)`
 
-## [Postgres、MongoDB 以及「無法擴展」的真正意義](https://postgresweekly.com/link/178321/web)
-對 The Register 最近一篇報導的反思，該報道引用 MongoDB 執行長的話說「PostgreSQL 無法擴展」。
+## [Postgres、MongoDB 以及「无法扩展」的真正意义](https://postgresweekly.com/link/178321/web)
+对 The Register 最近一篇报导的反思，该报道引用 MongoDB 执行长的话说「PostgreSQL 无法扩展」。
 
 `Umair Shahid`
 
 
-📄 [使用 Neon Postgres 進行一週實時流量測試的經驗總結](https://postgresweekly.com/link/178323/web)——對無伺服器計費方式的優缺點進行了深入思考。 Ishan Das Sharma
+📄 [使用 Neon Postgres 进行一周实时流量测试的经验总结](https://postgresweekly.com/link/178323/web)——对无伺服器计费方式的优缺点进行了深入思考。 Ishan Das Sharma
 
-📄 [為 Postgres 外部資料包裝器新增非同步流程處理功能](https://postgresweekly.com/link/178324/web)。 Bo Lu（Supabase）
+📄 [为 Postgres 外部资料包装器新增非同步流程处理功能](https://postgresweekly.com/link/178324/web)。 Bo Lu（Supabase）
 
-📄 [深入探討 Postgres 18 中的 UUIDv4 與 UUIDv7](https://postgresweekly.com/link/178325/web)。 Josef Machytka
+📄 [深入探讨 Postgres 18 中的 UUIDv4 与 UUIDv7](https://postgresweekly.com/link/178325/web)。 Josef Machytka
 
 
 ## **发布**
@@ -55,43 +58,43 @@ Xata 的開發者建立了一個代理程式（實際上是開源的），專門
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/pfml9flkfq7mtl7nysak.jpg)
 
 
-## [temBoard 10.0：Postgres 遠端控制/儀錶板](https://postgresweekly.com/link/178326/web)
-一個基於 Python 建構的 Postgres Web 儀表板和監控系統。您只需在目標伺服器上安裝代理，temBoard Web 應用程式即可在任何您想要的位置運作。 v10 版本新增了對 Postgres 18 的支持，並可在 Python 3.9 及更高版本上運行，同時提供 RPM 和 DEB 軟體包。 GitHub 程式碼庫。
+## [temBoard 10.0：Postgres 远端控制/仪表板](https://postgresweekly.com/link/178326/web)
+一个基于 Python 建构的 Postgres Web 仪表板和监控系统。您只需在目标伺服器上安装代理，temBoard Web 应用程式即可在任何您想要的位置运作。 v10 版本新增了对 Postgres 18 的支持，并可在 Python 3.9 及更高版本上运行，同时提供 RPM 和 DEB 软体包。 GitHub 程式码库。
 
 `Dalibo`
 
 
-## **📰 分類廣告**
+## **📰 分类广告**
 
 
-🌎 推出基於 Kubernetes 的精簡高可用性 PostgreSQL 部署（分散式或單區域），[利用 CNPG 與 pgEdge 的整合](https://postgresweekly.com/link/178330/web)。
+🌎 推出基于 Kubernetes 的精简高可用性 PostgreSQL 部署（分散式或单区域），[利用 CNPG 与 pgEdge 的整合](https://postgresweekly.com/link/178330/web)。
 
-PostgreSQL 現已推出，僅需 5 美元。使用 [Aiven 的全新開發者套餐](https://postgresweekly.com/link/178344/web)，告別為閒置實例支付過高費用的煩惱。
+PostgreSQL 现已推出，仅需 5 美元。使用 [Aiven 的全新开发者套餐](https://postgresweekly.com/link/178344/web)，告别为闲置实例支付过高费用的烦恼。
 
 
-## [VectorChord 1.0：Postgres 上的快速向量搜尋](https://postgresweekly.com/link/178332/web)
-這款前景廣闊、效能卓越的向量索引和查詢擴充程式於一年前首次發布，如今已達到 v1.0 版本。我們上個月曾提及該版本，但現在團隊撰寫了這篇博文，深入探討了 VectorChord 相較於 pgvector 如何實現如此顯著的效能提升。
+## [VectorChord 1.0：Postgres 上的快速向量搜寻](https://postgresweekly.com/link/178332/web)
+这款前景广阔、效能卓越的向量索引和查询扩充程式于一年前首次发布，如今已达到 v1.0 版本。我们上个月曾提及该版本，但现在团队撰写了这篇博文，深入探讨了 VectorChord 相较于 pgvector 如何实现如此显著的效能提升。
 
 `Jinjing Zhou`
 
-💡 他們在文章[《我們如何在 PostgreSQL 上 20 分鐘內實現 1 億向量索引》](https://postgresweekly.com/link/178334/web)中進行了更深入的技術探討。
+💡 他们在文章[《我们如何在 PostgreSQL 上 20 分钟内实现 1 亿向量索引》](https://postgresweekly.com/link/178334/web)中进行了更深入的技术探讨。
 
 
-## [隆重介紹 pg_clickhouse：用於查詢 ClickHouse 的 Postgres 擴充](https://postgresweekly.com/link/178335/web)
-ClickHouse 是一個流行的開源 OLAP 系統，此擴充功能提供了一種直接從 Postgres 透明地執行 ClickHouse 分析查詢的方法。
+## [隆重介绍 pg_clickhouse：用于查询 ClickHouse 的 Postgres 扩充](https://postgresweekly.com/link/178335/web)
+ClickHouse 是一个流行的开源 OLAP 系统，此扩充功能提供了一种直接从 Postgres 透明地执行 ClickHouse 分析查询的方法。
 
 `David Wheeler (ClickHouse)`
 
-[WhoDB 0.82](https://postgresweekly.com/link/178337/web) – 輕量級的新一代多資料庫資料瀏覽器。
+[WhoDB 0.82](https://postgresweekly.com/link/178337/web) – 轻量级的新一代多资料库资料浏览器。
 
-[linq2db 6.0](https://postgresweekly.com/link/178338/web) – LINQ to Database 提供者。現已支援 .NET 10。
+[linq2db 6.0](https://postgresweekly.com/link/178338/web) – LINQ to Database 提供者。现已支援 .NET 10。
 
-[PGSync 7.0](https://postgresweekly.com/link/178339/web) – Postgres 與 Elasticsearch/OpenSearch 的同步。
+[PGSync 7.0](https://postgresweekly.com/link/178339/web) – Postgres 与 Elasticsearch/OpenSearch 的同步。
 
-[Procrastinate 3.6](https://postgresweekly.com/link/178340/web) – 基於 Postgres 的 Python 任務佇列。
+[Procrastinate 3.6](https://postgresweekly.com/link/178340/web) – 基于 Postgres 的 Python 任务伫列。
 
-[pgroll 0.15](https://postgresweekly.com/link/178341/web) – 零停機、可逆的模式遷移。
+[pgroll 0.15](https://postgresweekly.com/link/178341/web) – 零停机、可逆的模式迁移。
 
-[Squawk 2.32](https://postgresweekly.com/link/178342/web) – 用於 Postgres 遷移和 SQL 的程式碼檢查器。
+[Squawk 2.32](https://postgresweekly.com/link/178342/web) – 用于 Postgres 迁移和 SQL 的程式码检查器。
 
 [pgAdmin 4 v9.11](https://postgresweekly.com/link/178343/web)

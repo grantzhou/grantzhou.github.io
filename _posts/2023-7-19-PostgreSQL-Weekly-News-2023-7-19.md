@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2023-7-19
 ---
 ### PostgreSQL每周新闻#515 - 2023年7月19日

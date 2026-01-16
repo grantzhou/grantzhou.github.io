@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: Pgpool-II 4.0.0和pgpoolAdmin 4.0.0现已正式发布。
 ---
 

@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2023-11-1
 ---
 ### PostgreSQL每周新闻#528 - 2023年11月1日

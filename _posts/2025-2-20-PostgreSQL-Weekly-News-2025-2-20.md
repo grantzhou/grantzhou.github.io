@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2025-2-20
 ---
 ### PostgreSQL每周新闻#589 - 2025年2月20日

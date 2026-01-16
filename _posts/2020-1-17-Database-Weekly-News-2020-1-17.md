@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2020-1-17
 ---
 ### 数据库每周新闻#287 - 2020年1月17日

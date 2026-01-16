@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: AresDB介绍：Uber基于GPU的开源实时分析引擎
 ---
 

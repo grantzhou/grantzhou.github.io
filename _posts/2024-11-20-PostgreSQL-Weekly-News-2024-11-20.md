@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2024-11-20
 ---
 ### PostgreSQL每周新闻#578 - 2024年11月20日

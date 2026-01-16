@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2021-4-28
 ---
 ### PostgreSQL每周新闻#403 - 2021年4月28日

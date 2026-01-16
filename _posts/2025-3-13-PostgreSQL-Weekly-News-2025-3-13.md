@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2025-3-13
 ---
 ### PostgreSQL每周新闻#591 - 2025年3月13日

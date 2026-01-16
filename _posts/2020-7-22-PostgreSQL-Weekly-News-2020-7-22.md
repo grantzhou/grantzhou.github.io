@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2020-7-22
 ---
 ### PostgreSQL每周新闻#365 - 2020年7月22日

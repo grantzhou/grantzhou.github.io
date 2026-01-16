@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 对于容器中的数据库和Postgres需要知道的11件事
 ---
 

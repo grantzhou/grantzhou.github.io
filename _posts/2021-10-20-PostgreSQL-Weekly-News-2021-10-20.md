@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2021-10-20
 ---
 ### PostgreSQL每周新闻#427 - 2021年10月20日

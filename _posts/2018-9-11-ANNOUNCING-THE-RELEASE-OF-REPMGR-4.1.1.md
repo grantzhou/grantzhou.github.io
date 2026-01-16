@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: REPMGR 4.1.1 的发布公告
 ---
 英文原文地址：[点击这里](https://www.postgresql.org/about/news/1884/)

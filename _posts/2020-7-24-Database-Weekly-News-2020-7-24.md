@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2020-7-24
 ---
 ### 数据库每周新闻#314 - 2020年7月24日

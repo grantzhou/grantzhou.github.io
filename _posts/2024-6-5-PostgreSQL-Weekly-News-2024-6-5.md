@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 June 5, 2024
 ---
 ### PostgreSQL每周新闻#557 - 2024年6月5日

@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2019-11-20
 ---
 ### PostgreSQL每周新闻#332 - 2019年11月20日

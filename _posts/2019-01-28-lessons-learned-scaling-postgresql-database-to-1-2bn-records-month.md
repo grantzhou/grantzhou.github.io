@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: Lessons learned scaling PostgreSQL database to 1.2bn records/month
 ---
 

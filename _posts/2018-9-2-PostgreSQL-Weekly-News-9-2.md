@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 2018-09-02 每周新闻
 ---
 ### PostgreSQL每周新闻 - 2018年9月2日

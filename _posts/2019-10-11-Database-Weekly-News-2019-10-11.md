@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2019-10-11
 ---
 ### 数据库每周新闻#275 - 2019年10月11日

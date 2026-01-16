@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2021-5-12
 ---
 ### PostgreSQL每周新闻#405 - 2021年5月12日

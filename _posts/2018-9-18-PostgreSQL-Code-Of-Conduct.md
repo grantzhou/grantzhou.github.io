@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 行为准则
 ---
 [英文原文](https://www.postgresql.org/about/policies/coc/)

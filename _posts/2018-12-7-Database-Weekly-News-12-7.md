@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2018-12-07
 ---
 ### 数据库每周新闻 #232 - 2018年12月07日

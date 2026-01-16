@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2021-4-2
 ---
 ### 数据库每周新闻#348 - 2021年4月2日

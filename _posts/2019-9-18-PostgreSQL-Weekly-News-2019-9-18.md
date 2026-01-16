@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2019-9-18
 ---
 ### PostgreSQL每周新闻#323 - 2019年9月18日

@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2023-10-4
 ---
 ### PostgreSQL每周新闻#524 - 2023年10月4日

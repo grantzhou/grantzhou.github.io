@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2020-8-5
 ---
 ### PostgreSQL每周新闻#367 - 2020年8月5日

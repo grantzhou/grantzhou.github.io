@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2022-6-8
 ---
 ### PostgreSQL每周新闻#458 - 2022年6月8日

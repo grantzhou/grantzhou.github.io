@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2021-5-7
 ---
 ### 数据库每周新闻#353 - 2021年5月7日

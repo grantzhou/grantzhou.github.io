@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2021-2-24
 ---
 ### PostgreSQL每周新闻#394 - 2021年2月24日

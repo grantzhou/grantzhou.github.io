@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: Citus Data向非营利性PostgreSQL组织捐赠1％的股权
 ---
 Adrian Bridgwater

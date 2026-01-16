@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2021-6-2
 ---
 ### PostgreSQL每周新闻#408 - 2021年6月2日

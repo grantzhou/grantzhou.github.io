@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2021-5-14
 ---
 ### 数据库每周新闻#354 - 2021年5月14日

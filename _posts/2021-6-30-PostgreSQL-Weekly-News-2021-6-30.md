@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2021-6-30
 ---
 ### PostgreSQL每周新闻#412 - 2021年6月30日

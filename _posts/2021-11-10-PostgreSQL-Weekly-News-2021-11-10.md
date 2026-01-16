@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2021-11-10
 ---
 ### PostgreSQL每周新闻#430 - 2021年11月10日

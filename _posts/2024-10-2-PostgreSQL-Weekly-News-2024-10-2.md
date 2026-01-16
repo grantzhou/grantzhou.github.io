@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2024-10-2
 ---
 ### PostgreSQL每周新闻#572 - 2024年10月2日

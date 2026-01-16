@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2020-5-22
 ---
 ### 数据库每周新闻#305 - 2020年5月22日

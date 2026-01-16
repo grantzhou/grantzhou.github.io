@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2021-12-8
 ---
 ### PostgreSQL每周新闻#434 - 2021年12月8日

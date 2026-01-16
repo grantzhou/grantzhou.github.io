@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2022-11-16
 ---
 ### PostgreSQL每周新闻#481 - 2022年11月16日

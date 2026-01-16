@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2020-5-27
 ---
 ### PostgreSQL每周新闻#357 - 2020年5月27日

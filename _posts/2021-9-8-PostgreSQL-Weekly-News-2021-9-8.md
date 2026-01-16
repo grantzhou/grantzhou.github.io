@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2021-9-8
 ---
 ### PostgreSQL每周新闻#421 - 2021年9月8日

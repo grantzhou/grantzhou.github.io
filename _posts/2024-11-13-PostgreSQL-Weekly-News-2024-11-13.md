@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2024-11-13
 ---
 ### PostgreSQL每周新闻#577 - 2024年11月13日

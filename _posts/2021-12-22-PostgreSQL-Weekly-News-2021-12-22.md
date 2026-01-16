@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 2021 年最佳 Postgres 周刊
 ---
 ### 2021 年最佳 Postgres 周刊

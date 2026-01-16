@@ -1,5 +1,8 @@
 
 这是**即将发布**的PG14发行说明的翻译文稿
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 
 ===
 

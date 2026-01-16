@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 从Oracle迁移到PostgreSQL时的挑战 - 以及如何克服它们
 ---
 英文原文地址：[点击这里](https://aws.amazon.com/blogs/database/challenges-when-migrating-from-oracle-to-postgresql-and-how-to-overcome-them/)

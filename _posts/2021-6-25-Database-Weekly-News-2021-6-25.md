@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2021-6-25
 ---
 ### 数据库每周新闻#360 - 2021年6月25日

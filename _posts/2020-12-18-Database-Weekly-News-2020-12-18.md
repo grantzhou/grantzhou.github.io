@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2020-12-18
 ---
 ### 数据库每周新闻#335 - 2020年12月18日

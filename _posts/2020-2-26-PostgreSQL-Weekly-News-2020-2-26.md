@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: PostgreSQL 每周新闻 2020-2-26
 ---
 ### PostgreSQL每周新闻#344 - 2020年2月26日

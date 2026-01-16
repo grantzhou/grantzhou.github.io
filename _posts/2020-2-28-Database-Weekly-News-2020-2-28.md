@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2020-2-28
 ---
 ### 数据库每周新闻#293 - 2020年2月28日

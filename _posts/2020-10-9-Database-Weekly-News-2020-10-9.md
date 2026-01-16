@@ -1,5 +1,8 @@
 ---
 layout: post
+categories: [PostgreSQL]
+tags: [PGWeekly]
+
 title: 数据库每周新闻 2020-10-9
 ---
 ### 数据库每周新闻#325 - 2020年10月9日

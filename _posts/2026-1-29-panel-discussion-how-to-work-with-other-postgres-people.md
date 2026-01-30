@@ -1,17 +1,16 @@
 ---
 layout: post
 title: "圆桌讨论：如何与其他 Postgres 人协作 — PGConf.EU 2025"
-date: 2026-01-29
+authors: [Jimmy Angelakos, 翻译及总结：Grant Zhou, Gemini AI]
 categories: talks
 tags: [postgresql, pgconfeu, neurodiversity, community]
-author: Jimmy Angelakos
-original_url: https://vyruss.org/blog/panel-discussion-how-to-work-with-other-postgres-people.html
-translator_note: 本文翻译自 Jimmy Angelakos 的博客文章
 ---
 
 > **原文作者：** Jimmy Angelakos  
 > **原文链接：** [https://vyruss.org/blog/panel-discussion-how-to-work-with-other-postgres-people.html](https://vyruss.org/blog/panel-discussion-how-to-work-with-other-postgres-people.html)
-
+> 
+> translator_note: 本文翻译自 Jimmy Angelakos 的博客文章
+> 
 ---
 
 我必须道个歉——距离在里加举办的 [PGConf.EU 2025](https://2025.pgconf.eu) 已经过去好几个月了，我现在才发布这个视频。延迟的原因是我想为录像制作准确的字幕，但这比预期花费了更长的时间。

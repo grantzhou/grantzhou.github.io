@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "圆桌讨论：如何与其他 Postgres 人协作 — PGConf.EU 2025"
-authors: [Jimmy Angelakos, 翻译及总结：Grant Zhou, Gemini AI]
 categories: talks
 tags: [postgresql, pgconfeu, neurodiversity, community]
 ---
@@ -26,10 +25,12 @@ tags: [postgresql, pgconfeu, neurodiversity, community]
 **YouTube 视频：** [youtube.com/watch?v=PsxNhcBTrTU](https://www.youtube.com/watch?v=PsxNhcBTrTU)
 
 
-
-> **注意**：这是一份关于“如何与其他 Postgres 人员合作”小组讨论的总结。该讨论强调，**神经多样性（Neurodiversity）**是人类进化的产物，指大脑线路以独特且不同的方式连接，如 ADHD（多动症）或自闭症。
+> 
+> **注意**：一下内容是关于这个“如何与其他 Postgres 人员合作”讨论的总结。
+> 该讨论强调，**神经多样性（Neurodiversity）**是人类进化的产物，指大脑线路以独特且不同的方式连接，如 ADHD（多动症）或自闭症。
+> 
 >  由Grant Zhou 通过 NotebookLM 生成。
-{: .prompt-info }
+{: .prompt-warning }
 
 ### **工作环境中的主要挑战**
 
@@ -64,5 +65,3 @@ tags: [postgresql, pgconfeu, neurodiversity, community]
 ### **总结建议**
 
 这种改善不仅仅是为了服务于 25% 的神经多样性人群，而是通过增加多样化的选项，让**每个人**都能感到被接纳和欢迎。
-
-您是否在考虑为您的团队建立类似的“个人说明书”或是引入某些灵活政策？我可以为您详细说明其中某项建议的实施步骤。

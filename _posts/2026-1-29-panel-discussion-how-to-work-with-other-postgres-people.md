@@ -26,7 +26,7 @@ tags: [postgresql, pgconfeu, neurodiversity, community]
 
 
 > 
-> **注意**：一下内容是关于这个“如何与其他 Postgres 人员合作”讨论的总结。
+> **注意**：以下内容是关于这个“如何与其他 Postgres 人员合作”讨论的总结。
 > 该讨论强调，**神经多样性（Neurodiversity）**是人类进化的产物，指大脑线路以独特且不同的方式连接，如 ADHD（多动症）或自闭症。
 > 
 >  由Grant Zhou 通过 NotebookLM 生成。

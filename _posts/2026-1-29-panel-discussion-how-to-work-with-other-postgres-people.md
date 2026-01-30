@@ -24,6 +24,7 @@ tags: [postgresql, pgconfeu, neurodiversity, community]
 
 **YouTube 视频：** [youtube.com/watch?v=PsxNhcBTrTU](https://www.youtube.com/watch?v=PsxNhcBTrTU)
 
+[![Youtube Screen](/assets/img/posts/2026/image_18.jpg)](https://www.youtube.com/watch?v=PsxNhcBTrTU)
 
 > 
 > **注意**：以下内容是关于这个“如何与其他 Postgres 人员合作”讨论的总结。

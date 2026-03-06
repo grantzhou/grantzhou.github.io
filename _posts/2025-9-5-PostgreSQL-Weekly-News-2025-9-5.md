@@ -7,6 +7,7 @@ title: PostgreSQL 每周新闻 2025-9-5
 ---
 ### PostgreSQL每周新闻#614 - 2025年9月5日
 ![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+
 备注：[英文原文地址](https://postgresweekly.com/issues/614)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ae8g3cl11hcrttbzf870.jpg)
 ## [🗓️ pgcalendar：用于循环计划的“无限”日历功能](https://postgresweekly.com/link/173746/web)

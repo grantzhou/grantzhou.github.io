@@ -7,6 +7,7 @@ title: PostgreSQL 每周新闻 2023-6-21
 ---
 ### PostgreSQL每周新闻#511 - 2023年6月21日
 ![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+
 备注：[英文原文地址](https://postgresweekly.com/issues/511)
 ![img](https://res.cloudinary.com/cpress/image/upload/c_fill,g_auto,e_trim,w_380,h_100/e_make_transparent/co_white,e_outline:7/dm8pbpm4svdu3ggeoyqk.png)
 ## [🥇 Postgres：最受欢迎、最需要和最受推崇的数据库](https://postgresweekly.com/link/141281/web)

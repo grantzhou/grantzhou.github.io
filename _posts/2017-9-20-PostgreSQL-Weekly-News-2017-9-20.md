@@ -6,6 +6,7 @@ tags: [PGWeekly]
 ---
 ### PostgreSQL每周新闻#225 - 2017年9月20日
 ![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+
 备注：[英文原文地址](https://postgresweekly.com/issues/225)
 
 ## [你的 Postgres 查询是否缺乏内存？](https://dzone.com/articles/is-your-postgres-query-starved-for-memory?utm_source=postgresweekly&utm_medium=email)

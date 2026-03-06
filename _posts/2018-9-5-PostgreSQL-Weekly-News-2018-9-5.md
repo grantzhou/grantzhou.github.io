@@ -6,6 +6,7 @@ tags: [PGWeekly]
 ---
 ### PostgreSQL每周新闻#272 - 2018年9月5日
 ![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+
 备注：[英文原文地址](https://postgresweekly.com/issues/272)
 
 ![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/kq5malwhzxovqhem7bib.jpg)

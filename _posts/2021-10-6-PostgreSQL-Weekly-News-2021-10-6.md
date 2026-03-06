@@ -7,6 +7,7 @@ title: PostgreSQL 每周新闻 2021-10-6
 ---
 ### PostgreSQL每周新闻#425 - 2021年10月6日
 ![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+
 备注：[英文原文地址](https://postgresweekly.com/issues/425)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/uap9deydp0do77p0ewus.jpg)
 ## [🎂 PostgreSQL 14 发布](https://postgresweekly.com/link/114590/web)

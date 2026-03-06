@@ -6,6 +6,7 @@ tags: [PGWeekly]
 ---
 ### PostgreSQL每周新闻#330 - 2019年11月6日
 ![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+
 备注：[英文原文地址](https://postgresweekly.com/issues/330)
 
 ## [Postgres 12 初始查询性能印象](https://www.cybertec-postgresql.com/en/postgresql-v12-initial-query-performance-impressions/)

@@ -6,6 +6,7 @@ tags: [PGWeekly]
 ---
 ### PostgreSQL每周新闻#226 - 2017年9月27日
 ![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+
 备注：[英文原文地址](https://postgresweekly.com/issues/226)
 
 ## [PostgreSQL 的哈希索引现在变酷了](http://rhaas.blogspot.co.uk/2017/09/postgresqls-hash-indexes-are-now-cool.html)

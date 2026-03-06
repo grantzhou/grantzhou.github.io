@@ -7,6 +7,7 @@ title: PostgreSQL 每周新闻 2024-1-3
 ---
 ### PostgreSQL每周新闻#536 - 2024年1月3日
 ![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+
 备注：[英文原文地址](https://postgresweekly.com/issues/536)
 ![img](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/stx2bxlakxud60tkwb97.jpg)
 ## [1. 📗《PostgreSQL 14 内部原理》一书](https://postgresweekly.com/link/149394/web)

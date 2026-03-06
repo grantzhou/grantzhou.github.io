@@ -4,6 +4,7 @@ title: PostgreSQL 每周新闻 2026-1-21
 ---
 ### PostgreSQL每周新闻#632 - 2026年1月21日
 ![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+
 备注：[英文原文地址](https://postgresweekly.com/issues/632)
 
 ![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/amnmicjwg1jkbgmuf3ya.jpg)

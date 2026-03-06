@@ -4,6 +4,7 @@ title: PostgreSQL 每周新闻 2026-2-25
 ---
 ### PostgreSQL每周新闻#637 - 2026年2月25日
 ![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+
 备注：[英文原文地址](https://postgresweekly.com/issues/637)
 
 ![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/j0rsq6gvmpu39cchsm3z.jpg)

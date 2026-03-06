@@ -4,6 +4,7 @@ title: PostgreSQL 每周新闻 2026-2-4
 ---
 ### PostgreSQL每周新闻#634 - 2026年2月4日
 ![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+
 备注：[英文原文地址](https://postgresweekly.com/issues/634)
 
 ![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/fulaqn5qgibbp3etaljc.jpg)

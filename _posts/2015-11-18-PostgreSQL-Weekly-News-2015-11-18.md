@@ -6,6 +6,7 @@ tags: [PGWeekly]
 ---
 ### PostgreSQL每周新闻#132 - 2015年11月18日
 ![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+
 备注：[英文原文地址](https://postgresweekly.com/issues/132)
 
 ## [awesome-postgres：精选的 PostgreSQL 软件、库、工具和资源列表](https://github.com/dhamaniasad/awesome-postgres)

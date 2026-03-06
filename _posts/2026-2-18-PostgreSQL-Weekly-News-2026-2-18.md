@@ -4,6 +4,7 @@ title: PostgreSQL 每周新闻 2026-2-18
 ---
 ### PostgreSQL每周新闻#636 - 2026年2月18日
 ![_config.yml]({{ site.baseurl }}/assets/img/PostgresWeekly.png)
+
 备注：[英文原文地址](https://postgresweekly.com/issues/636)
 
 ## [Postgres 18.2, 17.8, 16.12, 15.16 和 14.21 发布，但是..!](https://postgresweekly.com/link/180882/rss)
